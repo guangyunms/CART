@@ -10,7 +10,7 @@ from sklearn.preprocessing import LabelEncoder
 # df = pd.concat(dfs,ignore_index=True)
 # print(df.shape)
 
-df = pd.read_csv('SIN_checkin.csv')
+df = pd.read_csv('SIN_checkin_clusters.csv')
 
 # 第一个数据处理
 # 将Category字段中的字符串转换为数字
