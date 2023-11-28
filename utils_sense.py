@@ -20,7 +20,7 @@ import operator
 
 
 def cuda_(var):
-    return var.cuda() if torch.cuda.is_available() else var
+    return var.cuda(1) if torch.cuda.is_available() else var
 
 
 def evaluate_change(static_score, another_score, TopK):
@@ -45,7 +45,7 @@ def evaluate_change(static_score, another_score, TopK):
 
 
 def rank_items(given_preference, user_sequence, feature_sequence,  transE_model, candidate_list, rej_list):
-    device = torch.device('cuda') 
+    device = torch.device('cuda:1') 
     transE_model.eval()
     cluster_list = []
     type_list = []

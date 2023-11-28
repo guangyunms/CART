@@ -10,7 +10,7 @@ import generate_data
 
 
 def cuda_(var):
-    return var.cuda() if torch.cuda.is_available() else var
+    return var.cuda(1) if torch.cuda.is_available() else var
 
 def get_unique_column_values(column):
     column_list = []
@@ -197,7 +197,7 @@ class _Config():
 
         
         
-        df = pd.read_csv("./data/new_transE_3.csv")
+        df = pd.read_csv("./data-ms/SIN_checkin_clusters_re.csv")
         self.user_length = df['User_id'].max()+1
 #        print (self.user_length)
         self.item_length = df['Item_id'].max()+1
@@ -218,11 +218,11 @@ class _Config():
         
         self.vector_length = 50
         self.margin = 1.0
-        self.device = torch.device('cuda') 
+        self.device = torch.device('cuda:1') 
         self.norm = 1
         self.learning_rate = 0.01
         
-        df3 = pd.read_csv("./data/dict.csv") 
+        df3 = pd.read_csv("./data-ms/dict-SIN.csv") 
         user_list = df[['User_id']].values.tolist()
         self.user_list = get_unique_column_values(user_list)
 
@@ -232,12 +232,12 @@ class _Config():
         
         
 
-        with open('./data/L2.json', 'r') as f: 
+        with open('./data-ms/data-SIN.json', 'r') as f: 
             self.taxo_dict = json.load(f)
-        with open('./data/poi.json', 'r') as f:
+        with open('./data-ms/poi.json', 'r') as f:
             self.poi_dict = json.load(f)
         
-        df3 = pd.read_csv("./data/dict.csv") 
+        df3 = pd.read_csv("./data-ms/dict-SIN.csv") 
         item_dict=dict()
         star_list =[]
         for index,  row in df3.iterrows():
@@ -317,7 +317,7 @@ class _Config():
         device = torch.device('cuda')
         model = model_file.TransE(self.relation_count_list, self.entity_count_list, device, dim=self.vector_length,
                                 margin=self.margin, norm=self.norm, item_att_model = model_item, relation_att_model=model_relation)
-        model.load_state_dict(torch.load("./weight/new_transE.pt"))
+        model.load_state_dict(torch.load("./weight-ms/new_transE.pt"))
         self.entities_emb_head = model.entities_emb_head
         self.entities_emb_tail = model.entities_emb_tail
         self.relations_emb_time = model.relations_emb_time

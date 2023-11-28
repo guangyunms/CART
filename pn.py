@@ -10,7 +10,7 @@ import time
 from torch.autograd import gradcheck
 
 def cuda_(var):
-    return var.cuda() if torch.cuda.is_available() else var
+    return var.cuda(1) if torch.cuda.is_available() else var
 
 
 class PolicyNetwork(nn.Module):

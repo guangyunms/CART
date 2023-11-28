@@ -2,7 +2,7 @@
 def getvalues():
     import pandas as pd
     
-    df3 = pd.read_csv("inside_category.csv")
+    df3 = pd.read_csv("inside_category_SIN.csv")
     inside_category_dict=dict()
     for index,  row in df3.iterrows():
         if str(int(row['Item_id'])) not in inside_category_dict: 

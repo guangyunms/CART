@@ -23,7 +23,7 @@ torch.manual_seed(1)
 
 
 def cuda_(var):
-    return var.cuda() if torch.cuda.is_available() else var
+    return var.cuda(1) if torch.cuda.is_available() else var
 
 
 def validate(purpose, train_list, valid_list, test_list, model):
@@ -118,7 +118,7 @@ def train(bs, train_list, valid_list, test_list, optimizer, model, criterion, ep
 
 def main():
     parser = argparse.ArgumentParser(description="Pretrain Policy Network")
-    parser.add_argument('-inputdim', type=int, dest='inputdim', help='input dimension', default = 29)
+    parser.add_argument('-inputdim', type=int, dest='inputdim', help='input dimension', default = 28)
     parser.add_argument('-hiddendim', type=int, dest='hiddendim', help='hidden dimension', default = 64)
     parser.add_argument('-outputdim', type=int, dest='outputdim', help='output dimension', default = 12)
     parser.add_argument('-bs', type=int, dest='bs', help='batch size', default = 16)
@@ -136,7 +136,7 @@ def main():
     print('Model on GPU')
     data_list = list()
 
-    dir = './data/pretrain-numpy-data-{}'.format(A.mod)
+    dir = './data-ms/pretrain-numpy-data-{}'.format(A.mod)
 
     files = os.listdir(dir)
     file_paths = [dir + '/' + f for f in files]
@@ -168,7 +168,7 @@ def main():
 
     for epoch in range(10):
         random.shuffle(train_list)
-        model_name = './data/PN-model-{}/pretrain-model.pt'.format(A.mod)
+        model_name = './data-ms/PN-model-{}/pretrain-model.pt'.format(A.mod)
         train(A.bs, train_list, valid_list, test_list, optimizer, PN, criterion, epoch, model_name)
 
 

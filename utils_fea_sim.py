@@ -12,7 +12,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import argparse
 import sys
 def feature_distance(given_preference, userID, TopKTaxo, features):        
-    device = torch.device('cuda')
+    device = torch.device('cuda:1')
     cluster_list = []
     type_list = []
     category_list = []    

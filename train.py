@@ -19,7 +19,7 @@ import inside_category
 
 train_dict,valid_dict,test_dict = generate_data.get_data()
 
-df = pd.read_csv("./data/new_transE_3.csv") 
+df = pd.read_csv("./data-ms/SIN_checkin_clusters_re.csv") 
 user_length = df['User_id'].max()+1
 item_length = df['Item_id'].max()+1
 
@@ -41,7 +41,7 @@ entity_count_list.append(item_length)
 
 vector_length = 50
 margin = 1.0
-device = torch.device('cuda') 
+device = torch.device('cuda:1') 
 norm = 2
 learning_rate = 0.001
 model_item = model_definition.Attention_item_level(input_dim= 2 * vector_length, dim1=64, output_dim=1)
@@ -56,7 +56,7 @@ best_score = 0.0
 step = 0
 sequence_list = []
 
-f = open("new_train.txt", "w")
+f = open("./data-ms/new_train.txt", "w")
 for key in train_dict.keys():
     num_total_sequences = len(train_dict[key][0])
     for i in range(num_total_sequences):
@@ -70,9 +70,9 @@ for key in train_dict.keys():
 f.close()
 
 
-train_set = ds.Dataset('new_train.txt',None)
+train_set = ds.Dataset('./data-ms/new_train.txt',None)
 
-path = "./weight/new_transE.pt"
+path = "./weight-ms/new_transE.pt"
 
 sequence_index = 0
 current_sequence = 0

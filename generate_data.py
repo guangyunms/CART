@@ -2,8 +2,8 @@
 import pandas as pd
 import copy
 def get_data():
-    df = pd.read_csv("./data/new_transE_3.csv")
-    new = df.groupby(['User_id','Date']).size()
+    df = pd.read_csv("./data-ms/SIN_checkin_clusters_re.csv")
+    new = df.groupby(['User_id','day']).size()
     df2 = pd.DataFrame(new)
     df2.rename(columns={0: 'counts'}, inplace=True)
     count_list = df2['counts'].tolist()

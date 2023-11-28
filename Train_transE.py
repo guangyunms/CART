@@ -52,9 +52,11 @@ def main():
     parser.add_argument('-gamma', type=float, dest='gamma', help='gamma', default =0)
     parser.add_argument('-trick', type=int, dest='trick', help='trick', default =0)
     parser.add_argument('-startFrom', type=int, dest='startFrom', help='startFrom', default =0)
-    parser.add_argument('-endAt', type=int, dest='endAt', help='endAt', default =171) #test 171 
+    parser.add_argument('-endAt', type=int, dest='endAt', help='endAt', default =826) #test 171 
     parser.add_argument('-strategy', type=str, dest='strategy', help='strategy', default ='maxsim')
-    parser.add_argument('-eval', type=int, dest='eval', help='eval', default =1)
+
+    # -eval这个参数要先改成0。0表示训练，1表示测试。先用0，训练完成之后，再测试改为1。0和1用的数据不一样，一个是valid,  一个是test。
+    parser.add_argument('-eval', type=int, dest='eval', help='eval', default =0)
     parser.add_argument('-mini', type=int, dest='mini', help='mini', default =1)
     parser.add_argument('-alwaysupdate', type=int, dest='alwaysupdate', help='alwaysupdate', default =1)
     parser.add_argument('-initeval', type=int, dest='initeval', help='initeval', default =0)
@@ -72,7 +74,7 @@ def main():
 
     cfg.change_param(playby=A.playby, eval=A.eval, update_count=A.upcount, update_reg=A.upreg,
                      purpose=A.purpose, mod=A.mod, mask=A.mask)
-    device = torch.device('cuda')
+    device = torch.device('cuda:1')
     random.seed(1)
 #    random.shuffle(cfg.valid_list)
 #    random.shuffle(cfg.test_list)
@@ -96,20 +98,20 @@ def main():
     if A.eval == 1:
 
         if A.mod == 'ours':
-            fp = './data/PN-model-ours/PN-model-ours.txt'
+            fp = './data-ms/PN-model-ours/PN-model-ours.txt'
         if A.initeval == 1:
 
             if A.mod == 'ours':
-                fp = './data/PN-model-ours/pretrain-model.pt'
+                fp = './data-ms/PN-model-ours/pretrain-model.pt'
     else:
         # means training
         if A.mod == 'ours':
-            fp = './data/PN-model-ours/pretrain-model.pt'
+            fp = './data-ms/PN-model-ours/pretrain-model.pt'
             
     INPUT_DIM = 0
 
     if A.mod == 'ours':
-        INPUT_DIM = 29 #11+10+8
+        INPUT_DIM = 28 #11+10+8
     PN_model = PolicyNetwork(input_dim=INPUT_DIM, dim1=64, output_dim=12)
     start = time.time()
 
@@ -210,7 +212,7 @@ def main():
 #                print (k)
                 big_feature_list.append(k)
 
-        write_fp = './data/interaction-log/{}/v4-code-{}-s-{}-e-{}-lr-{}-gamma-{}-playby-{}-stra-{}-topK-{}-trick-{}-eval-{}-init-{}-mini-{}-always-{}-upcount-{}-upreg-{}-m-{}.txt'.format(
+        write_fp = './data-ms/interaction-log/{}/v4-code-{}-s-{}-e-{}-lr-{}-gamma-{}-playby-{}-stra-{}-topK-{}-trick-{}-eval-{}-init-{}-mini-{}-always-{}-upcount-{}-upreg-{}-m-{}.txt'.format(
             A.mod.lower(), A.code, A.startFrom, A.endAt, A.lr, A.gamma, A.playby, A.strategy, A.TopKTaxo, A.trick,
             A.eval, A.initeval,
             A.mini, A.alwaysupdate, A.upcount, A.upreg, A.mask)
@@ -321,7 +323,7 @@ def main():
 
         check_span = 10
         if epi_count % check_span == 0 and epi_count >= 3 * check_span and cfg.eval != 1 and A.purpose != 'pretrain':
-            PATH = './data/PN-model-{}/v4-code-{}-s-{}-e-{}-lr-{}-gamma-{}-playby-{}-stra-{}-topK-{}-trick-{}-eval-{}-init-{}-mini-{}-always-{}-upcount-{}-upreg-{}-m-{}-epi-{}.txt'.format(
+            PATH = './data-ms/PN-model-{}/v4-code-{}-s-{}-e-{}-lr-{}-gamma-{}-playby-{}-stra-{}-topK-{}-trick-{}-eval-{}-init-{}-mini-{}-always-{}-upcount-{}-upreg-{}-m-{}-epi-{}.txt'.format(
                 A.mod.lower(), A.code, A.startFrom, A.endAt, A.lr, A.gamma, A.playby, A.strategy, A.TopKTaxo, A.trick,
                 A.eval, A.initeval,
                 A.mini, A.alwaysupdate, A.upcount, A.upreg, A.mask, epi_count)
@@ -343,7 +345,7 @@ def main():
             for i in range(num_interval):
                 ave = np.mean(np.array(conversation_length_list[i * check_span: (i + 1) * check_span]))
                 print('start: {}, end: {}, average: {}'.format(i * check_span, (i + 1) * check_span, ave))
-                PATH = './data/PN-model-{}/v4-code-{}-s-{}-e-{}-lr-{}-gamma-{}-playby-{}-stra-{}-topK-{}-trick-{}-eval-{}-init-{}-mini-{}-always-{}-upcount-{}-upreg-{}-m-{}-epi-{}.txt'.format(
+                PATH = './data-ms/PN-model-{}/v4-code-{}-s-{}-e-{}-lr-{}-gamma-{}-playby-{}-stra-{}-topK-{}-trick-{}-eval-{}-init-{}-mini-{}-always-{}-upcount-{}-upreg-{}-m-{}-epi-{}.txt'.format(
                     A.mod.lower(), A.code, A.startFrom, A.endAt, A.lr, A.gamma, A.playby, A.strategy, A.TopKTaxo,
                     A.trick,
                     A.eval, A.initeval,
@@ -366,7 +368,7 @@ def main():
         # Write to pretrain numpy which is the pretrain data.
         if A.purpose == 'pretrain':
             if len(numpy_list) > 5000:
-                with open('./data/pretrain-numpy-data-{}/segment-{}-start-{}-end-{}.pk'.format(
+                with open('./data-ms/pretrain-numpy-data-{}/segment-{}-start-{}-end-{}.pk'.format(
                         A.mod, NUMPY_COUNT, A.startFrom, A.endAt), 'wb') as f:
                     pickle.dump(numpy_list, f)
                     print('Have written 5000 numpy arrays!')

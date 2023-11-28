@@ -26,7 +26,7 @@ import  math
 import torch.optim as optim
 
 def cuda_(var):
-    return var.cuda() if torch.cuda.is_available() else var
+    return var.cuda(1) if torch.cuda.is_available() else var
 
 
 class agent():
@@ -76,7 +76,7 @@ class agent():
         self.previous_dict = None
         self.rejected_time = 0
         self.do_mask = do_mask
-        self.big_feature_length = 11 
+        self.big_feature_length = 10 
         self.feature_length = 289 
         self.sample_dict = sample_dict
         self.choose_pool = choose_pool 
@@ -110,7 +110,7 @@ class agent():
     # end def
 
     def mini_update_transE(self):
-        device = torch.device('cuda')
+        device = torch.device('cuda:1')
         self.transE_model.to(device)
         self.transE_model.train()
         optimizer = optim.SGD(self.transE_model.parameters(), lr=0.001)
@@ -212,7 +212,7 @@ class agent():
         list_cat = list4 + list5 + list6
         list_cat = np.array(list_cat)
 
-        assert len(list_cat) == 29
+        assert len(list_cat) == 28
         return list_cat
     # end def
 
