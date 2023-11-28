@@ -1,0 +1,4 @@
+Total feature length is: 11, Top 10 namely: ['clusters', 'POI_Type', 'Travel & Transport', 'Food', 'Nightlife Spot', 'Shop & Service', 'Arts & Entertainment', 'Professional & Other Places', 'College & University', 'Outdoors & Recreation']
+clusters max: 10, category max: 148, feature max: 169
+Config takes: 1.8405179977416992
+___Config Done!!___

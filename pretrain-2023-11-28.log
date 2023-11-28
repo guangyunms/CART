@@ -1,0 +1,69 @@
+Arguments loaded!
+Model on GPU
+total files: 57
+length of data list is: 57549
+train length: 40284, valid length: 11510, test length: 5755
+-------validating before training 0 epoch-------
+0.6757893562316895 seconds to finished 0.0% cumulative loss is: inf
+1.258803129196167 seconds to finished 19.86491855383393% cumulative loss is: 2.443690776824951
+1.8458728790283203 seconds to finished 39.72983710766786% cumulative loss is: 2.4333579540252686
+2.3913886547088623 seconds to finished 59.594755661501786% cumulative loss is: 2.421429395675659
+3.0075151920318604 seconds to finished 79.45967421533572% cumulative loss is: 2.412822961807251
+3.577284812927246 seconds to finished 99.32459276916964% cumulative loss is: 2.4046082496643066
+-------validating before training 1 epoch-------
+0.001432657241821289 seconds to finished 0.0% cumulative loss is: inf
+0.5960693359375 seconds to finished 19.86491855383393% cumulative loss is: 2.3648428916931152
+1.334792137145996 seconds to finished 39.72983710766786% cumulative loss is: 2.3591020107269287
+1.9379405975341797 seconds to finished 59.594755661501786% cumulative loss is: 2.3546319007873535
+2.426873207092285 seconds to finished 79.45967421533572% cumulative loss is: 2.351975679397583
+3.1049046516418457 seconds to finished 99.32459276916964% cumulative loss is: 2.3490235805511475
+-------validating before training 2 epoch-------
+0.0014729499816894531 seconds to finished 0.0% cumulative loss is: inf
+0.6808390617370605 seconds to finished 19.86491855383393% cumulative loss is: 2.3346736431121826
+1.2985265254974365 seconds to finished 39.72983710766786% cumulative loss is: 2.3302724361419678
+2.014052629470825 seconds to finished 59.594755661501786% cumulative loss is: 2.32930588722229
+2.6024322509765625 seconds to finished 79.45967421533572% cumulative loss is: 2.3280491828918457
+3.261371612548828 seconds to finished 99.32459276916964% cumulative loss is: 2.3286256790161133
+-------validating before training 3 epoch-------
+0.0014193058013916016 seconds to finished 0.0% cumulative loss is: inf
+0.6427280902862549 seconds to finished 19.86491855383393% cumulative loss is: 2.3165600299835205
+1.2877099514007568 seconds to finished 39.72983710766786% cumulative loss is: 2.3040363788604736
+1.923168659210205 seconds to finished 59.594755661501786% cumulative loss is: 2.302330732345581
+2.6406917572021484 seconds to finished 79.45967421533572% cumulative loss is: 2.3008480072021484
+3.2391998767852783 seconds to finished 99.32459276916964% cumulative loss is: 2.298931121826172
+-------validating before training 4 epoch-------
+0.0014395713806152344 seconds to finished 0.0% cumulative loss is: inf
+0.6569693088531494 seconds to finished 19.86491855383393% cumulative loss is: 2.2982897758483887
+1.314894437789917 seconds to finished 39.72983710766786% cumulative loss is: 2.2848544120788574
+1.9170091152191162 seconds to finished 59.594755661501786% cumulative loss is: 2.285003662109375
+2.503966808319092 seconds to finished 79.45967421533572% cumulative loss is: 2.285376787185669
+3.1645402908325195 seconds to finished 99.32459276916964% cumulative loss is: 2.2871053218841553
+-------validating before training 5 epoch-------
+0.0014383792877197266 seconds to finished 0.0% cumulative loss is: inf
+0.6693542003631592 seconds to finished 19.86491855383393% cumulative loss is: 2.299909830093384
+1.3384616374969482 seconds to finished 39.72983710766786% cumulative loss is: 2.2865912914276123
+2.0139341354370117 seconds to finished 59.594755661501786% cumulative loss is: 2.288362503051758
+2.6691019535064697 seconds to finished 79.45967421533572% cumulative loss is: 2.286364793777466
+3.430016279220581 seconds to finished 99.32459276916964% cumulative loss is: 2.28297758102417
+-------validating before training 6 epoch-------
+0.0012598037719726562 seconds to finished 0.0% cumulative loss is: inf
+0.5803704261779785 seconds to finished 19.86491855383393% cumulative loss is: 2.27184796333313
+1.2200546264648438 seconds to finished 39.72983710766786% cumulative loss is: 2.274432897567749
+1.899346113204956 seconds to finished 59.594755661501786% cumulative loss is: 2.2723000049591064
+2.486621379852295 seconds to finished 79.45967421533572% cumulative loss is: 2.2761213779449463
+3.154571056365967 seconds to finished 99.32459276916964% cumulative loss is: 2.275160551071167
+-------validating before training 7 epoch-------
+0.0010874271392822266 seconds to finished 0.0% cumulative loss is: inf
+0.6857588291168213 seconds to finished 19.86491855383393% cumulative loss is: 2.2745416164398193
+1.2824969291687012 seconds to finished 39.72983710766786% cumulative loss is: 2.279651641845703
+1.9158861637115479 seconds to finished 59.594755661501786% cumulative loss is: 2.275639533996582
+2.558866262435913 seconds to finished 79.45967421533572% cumulative loss is: 2.272279739379883
+3.2005512714385986 seconds to finished 99.32459276916964% cumulative loss is: 2.2709012031555176
+-------validating before training 8 epoch-------
+0.0012133121490478516 seconds to finished 0.0% cumulative loss is: inf
+0.6669726371765137 seconds to finished 19.86491855383393% cumulative loss is: 2.269054889678955
+1.2729196548461914 seconds to finished 39.72983710766786% cumulative loss is: 2.264746904373169
+1.9081425666809082 seconds to finished 59.594755661501786% cumulative loss is: 2.262861967086792
+2.6037044525146484 seconds to finished 79.45967421533572% cumulative loss is: 2.258479356765747
+3.3373258113861084 seconds to finished 99.32459276916964% cumulative loss is: 2.2600433826446533
+-------validating before training 9 epoch-------

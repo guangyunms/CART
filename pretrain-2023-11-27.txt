@@ -1,0 +1,15 @@
+Arguments loaded!
+Model on GPU
+total files: 0
+length of data list is: 0
+train length: 0, valid length: 0, test length: 0
+-------validating before training 0 epoch-------
+-------validating before training 1 epoch-------
+-------validating before training 2 epoch-------
+-------validating before training 3 epoch-------
+-------validating before training 4 epoch-------
+-------validating before training 5 epoch-------
+-------validating before training 6 epoch-------
+-------validating before training 7 epoch-------
+-------validating before training 8 epoch-------
+-------validating before training 9 epoch-------

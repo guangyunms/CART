@@ -314,7 +314,7 @@ class _Config():
         model_item = model_file.Attention_item_level(input_dim= 2 * self.vector_length, dim1=64, output_dim=1)
         model_relation = model_file.Attention_item_level(input_dim= 2 * self.vector_length, dim1=64, output_dim=1)
         
-        device = torch.device('cuda')
+        device = torch.device('cuda:1')
         model = model_file.TransE(self.relation_count_list, self.entity_count_list, device, dim=self.vector_length,
                                 margin=self.margin, norm=self.norm, item_att_model = model_item, relation_att_model=model_relation)
         model.load_state_dict(torch.load("./weight-ms/new_transE.pt"))

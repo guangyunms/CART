@@ -54,7 +54,7 @@ def main():
     parser.add_argument('-startFrom', type=int, dest='startFrom', help='startFrom', default =0)
     parser.add_argument('-endAt', type=int, dest='endAt', help='endAt', default =826) #test 171 
     parser.add_argument('-strategy', type=str, dest='strategy', help='strategy', default ='maxsim')
-
+    
     # -eval这个参数要先改成0。0表示训练，1表示测试。先用0，训练完成之后，再测试改为1。0和1用的数据不一样，一个是valid,  一个是test。
     parser.add_argument('-eval', type=int, dest='eval', help='eval', default =0)
     parser.add_argument('-mini', type=int, dest='mini', help='mini', default =1)

@@ -20,7 +20,7 @@ import operator
 
 
 def cuda_(var):
-    return var.cuda(1) if torch.cuda.is_available() else var
+    return var.cuda() if torch.cuda.is_available() else var
 
 
 def evaluate_change(static_score, another_score, TopK):
