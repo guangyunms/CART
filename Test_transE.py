@@ -169,21 +169,22 @@ def main():
                 optimizer2_transE = torch.optim.SGD(param2, lr=0.001, weight_decay=A.decay)
 
         if A.purpose != 'pretrain':
-            items = the_valid_list_item[epi_count]  #0 18 10 3 
-            features = the_valid_list_features[epi_count] #3,21,2,1    21,12,2,1   22,7,2,1 
-            location = the_valid_list_location[epi_count]
-            item_list = items.strip().split(' ') 
-            u = item_list[0] 
-            item = item_list[-1]
+            
             if A.eval == 1:
-#                u, item, l = the_test_list_item[epi_count]
+                # u, item, l = the_test_list_item[epi_count]
                 items = the_test_list_item[epi_count]  #0 18 10 3 
                 features = the_test_list_features[epi_count] #3,21,2,1    21,12,2,1   22,7,2,1 
                 location = the_test_list_location[epi_count]
                 item_list = items.strip().split(' ') 
                 u = item_list[0] 
                 item = item_list[-1]          
-                
+            else:
+                items = the_valid_list_item[epi_count]  #0 18 10 3 
+                features = the_valid_list_features[epi_count] #3,21,2,1    21,12,2,1   22,7,2,1 
+                location = the_valid_list_location[epi_count]
+                item_list = items.strip().split(' ') 
+                u = item_list[0] 
+                item = item_list[-1]
             user_id = int(u)
             item_id = int(item)
             location_id = int(location)
