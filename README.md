@@ -1,3 +1,5 @@
+# forked from http://github.com/CART2020/CART
+
 # CART
 This is the code of a conversation-based adaptive relational translation framework (CART) for next POI recommendation with uncertain check-ins. The CART consists of two modules: 
 1. The recommender built upon the adaptive relational translation method performs location prediction; 
