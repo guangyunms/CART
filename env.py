@@ -85,6 +85,7 @@ class user():
                 data = dict()
                 data['ranking'] = input_message.data['rec_list'].index(str(self.busi_id)) + 1
                 data['total'] = len(input_message.data['rec_list'])
+                data['rec_list'] = input_message.data['rec_list']
                 new_message = message(cfg.USER, cfg.AGENT, cfg.ACCEPT_REC, data)
             else:
                 data = dict()

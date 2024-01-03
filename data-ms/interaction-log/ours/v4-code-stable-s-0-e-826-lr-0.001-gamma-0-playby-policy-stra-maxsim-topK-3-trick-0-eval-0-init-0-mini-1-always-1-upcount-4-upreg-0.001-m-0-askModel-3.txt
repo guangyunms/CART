@@ -1,0 +1,1431 @@
+Starting new
+user ID: 1557, item ID: 1985 episode count: 0
+The user 1557 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Shop', 'clusters']***ent position: [1, 0]*** sim position: [1, 9]***
+Turn count: 0, candidate length: 2009
+The user 1557 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': [38]}
+Turn Count: 1 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 1, candidate length: 1
+The user 1557 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 2 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 2, candidate length: 1
+The user 1557 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 1
+The user 1557 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 4 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 4, candidate length: 1
+The user 1557 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 5 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 5, candidate length: 1
+The user 1557 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 6 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 6, candidate length: 1
+The user 1557 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 7 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 7, candidate length: 1
+The user 1557 utterance in #8 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 8 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 8, candidate length: 1
+The user 1557 utterance in #9 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 1.138653039932251 SECONDS
+Starting new
+user ID: 1540, item ID: 873 episode count: 1
+The user 1540 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1540 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1540 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 2, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.20858526229858398 SECONDS
+Starting new
+user ID: 1395, item ID: 1864 episode count: 2
+The user 1395 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1395 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1395 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 3, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2093672752380371 SECONDS
+Starting new
+user ID: 1395, item ID: 1864 episode count: 3
+The user 1395 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1395 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1395 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1395 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [1]}
+Turn Count: 3 residual feature: ['Food']***ent position: [0]*** sim position: [5]***
+Turn count: 3, candidate length: 197
+The user 1395 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 4 residual feature: ['Food']***ent position: [0]*** sim position: [6]***
+Turn count: 4, candidate length: 197
+The user 1395 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 5 residual feature: ['Food']***ent position: [0]*** sim position: [7]***
+Turn count: 5, candidate length: 197
+The user 1395 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 6 residual feature: ['Food']***ent position: [0]*** sim position: [8]***
+Turn count: 6, candidate length: 197
+The user 1395 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': [27]}
+Turn count: 7, candidate length: 1
+The user 1395 utterance in #8 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.24855566024780273 SECONDS
+Starting new
+user ID: 1581, item ID: 2019 episode count: 4
+The user 1581 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1581 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1581 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [182]}
+Turn Count: 2 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 2, candidate length: 9
+The user 1581 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 9
+The user 1581 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [1]}
+Turn count: 4, candidate length: 3
+The user 1581 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn count: 5, candidate length: 3
+The user 1581 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn count: 6, candidate length: 3
+The user 1581 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn count: 7, candidate length: 3
+The user 1581 utterance in #8 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn count: 8, candidate length: 3
+The user 1581 utterance in #9 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 3}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.09000000357627869, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.23082184791564941 SECONDS
+Starting new
+user ID: 1581, item ID: 2019 episode count: 5
+The user 1581 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1581 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1581 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [1]}
+Turn Count: 2 residual feature: ['Outdoor']***ent position: [1]*** sim position: [5]***
+Turn count: 2, candidate length: 197
+The user 1581 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 3 residual feature: ['Outdoor']***ent position: [0]*** sim position: [5]***
+Turn count: 3, candidate length: 197
+The user 1581 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 4 residual feature: ['Outdoor']***ent position: [0]*** sim position: [6]***
+Turn count: 4, candidate length: 197
+The user 1581 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 5 residual feature: ['Outdoor']***ent position: [0]*** sim position: [7]***
+Turn count: 5, candidate length: 197
+The user 1581 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn Count: 6 residual feature: ['Outdoor']***ent position: [0]*** sim position: [7]***
+Turn count: 6, candidate length: 197
+The user 1581 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 7 residual feature: ['Outdoor']***ent position: [0]*** sim position: [8]***
+Turn count: 7, candidate length: 197
+The user 1581 utterance in #8 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [182]}
+Turn count: 8, candidate length: 3
+The user 1581 utterance in #9 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 3}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2508511543273926 SECONDS
+Starting new
+user ID: 1581, item ID: 2019 episode count: 6
+The user 1581 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1581 utterance in #1 turn, type: REJECT_REC, data: {'rejected_item_list': ['999', '2065', '776', '643', '1366', '803', '636', '761', '2052', '1593']}
+Turn count: 1, candidate length: 2009
+The user 1581 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1581 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 3 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 5]***
+Turn count: 3, candidate length: 2009
+The user 1581 utterance in #4 turn, type: REJECT_REC, data: {'rejected_item_list': ['873', '1996', '922', '959', '1457', '1709', '1201', '1421', '587', '1870']}
+Turn count: 4, candidate length: 2009
+The user 1581 utterance in #5 turn, type: REJECT_REC, data: {'rejected_item_list': ['718', '1520', '817', '2059', '2102', '1362', '1511', '1594', '947', '1190']}
+Turn count: 5, candidate length: 2009
+The user 1581 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [182]}
+Turn Count: 6 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 6, candidate length: 9
+The user 1581 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [1]}
+Turn count: 7, candidate length: 3
+The user 1581 utterance in #8 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn count: 8, candidate length: 3
+The user 1581 utterance in #9 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn count: 9, candidate length: 3
+Big features are: ['POI_Type']
+reward is: [-0.10000000149011612, -0.009999999776482582, -0.009999999776482582, -0.10000000149011612, -0.10000000149011612, 0.09000000357627869, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.30000001192092896]
+WHOLE PROCESS TAKES: 1.6697194576263428 SECONDS
+Starting new
+user ID: 1581, item ID: 2019 episode count: 7
+The user 1581 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1581 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1581 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [1]}
+Turn Count: 2 residual feature: ['Outdoor']***ent position: [1]*** sim position: [5]***
+Turn count: 2, candidate length: 197
+The user 1581 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [182]}
+Turn count: 3, candidate length: 3
+The user 1581 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn count: 4, candidate length: 3
+The user 1581 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn count: 5, candidate length: 3
+The user 1581 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn count: 6, candidate length: 3
+The user 1581 utterance in #7 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 3}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.09000000357627869, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.3943803310394287 SECONDS
+Starting new
+user ID: 1344, item ID: 1591 episode count: 8
+The user 1344 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1344 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1344 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [8]}
+Turn Count: 2 residual feature: ['Food']***ent position: [0]*** sim position: [4]***
+Turn count: 2, candidate length: 199
+The user 1344 utterance in #3 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.32367777824401855 SECONDS
+Starting new
+user ID: 1255, item ID: 1765 episode count: 9
+The user 1255 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1255 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 6]***
+Turn count: 1, candidate length: 2009
+The user 1255 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 6]***
+Turn count: 2, candidate length: 2009
+The user 1255 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 3 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 7]***
+Turn count: 3, candidate length: 2009
+The user 1255 utterance in #4 turn, type: ACCEPT_REC, data: {'ranking': 3, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.3122594356536865 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 10
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 5]***
+Turn count: 1, candidate length: 2009
+The user 1554 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'School&Office']***ent position: [0, 3]*** sim position: [9, 5]***
+Turn count: 2, candidate length: 2009
+The user 1554 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': [58]}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 25
+The user 1554 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 4 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 4, candidate length: 25
+The user 1554 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 5 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 5, candidate length: 25
+The user 1554 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [8]}
+Turn count: 6, candidate length: 1
+The user 1554 utterance in #7 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.34990549087524414 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 11
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [8]}
+Turn Count: 1 residual feature: ['School&Office']***ent position: [3]*** sim position: [6]***
+Turn count: 1, candidate length: 199
+The user 1554 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 2 residual feature: ['School&Office']***ent position: [3]*** sim position: [7]***
+Turn count: 2, candidate length: 199
+The user 1554 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 3 residual feature: ['School&Office']***ent position: [3]*** sim position: [7]***
+Turn count: 3, candidate length: 199
+The user 1554 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 4 residual feature: ['School&Office']***ent position: [3]*** sim position: [8]***
+Turn count: 4, candidate length: 199
+The user 1554 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': [58]}
+Turn count: 5, candidate length: 1
+The user 1554 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.36057138442993164 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 12
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [0.9900000095367432]
+WHOLE PROCESS TAKES: 0.3198859691619873 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 13
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 5]***
+Turn count: 1, candidate length: 2009
+The user 1554 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 6]***
+Turn count: 2, candidate length: 2009
+The user 1554 utterance in #3 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.3008584976196289 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 14
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 5]***
+Turn count: 1, candidate length: 2009
+The user 1554 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 6]***
+Turn count: 2, candidate length: 2009
+The user 1554 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [8]}
+Turn Count: 3 residual feature: ['School&Office']***ent position: [2]*** sim position: [7]***
+Turn count: 3, candidate length: 199
+The user 1554 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': [58]}
+Turn count: 4, candidate length: 1
+The user 1554 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn count: 5, candidate length: 1
+The user 1554 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn count: 6, candidate length: 1
+The user 1554 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn count: 7, candidate length: 1
+The user 1554 utterance in #8 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.3273489475250244 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 15
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 5]***
+Turn count: 1, candidate length: 2009
+The user 1554 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 6]***
+Turn count: 2, candidate length: 2009
+The user 1554 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 3 residual feature: ['clusters', 'School&Office']***ent position: [0, 3]*** sim position: [9, 6]***
+Turn count: 3, candidate length: 2009
+The user 1554 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 4 residual feature: ['clusters', 'School&Office']***ent position: [0, 2]*** sim position: [9, 6]***
+Turn count: 4, candidate length: 2009
+The user 1554 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 5 residual feature: ['clusters', 'School&Office']***ent position: [0, 2]*** sim position: [9, 7]***
+Turn count: 5, candidate length: 2009
+The user 1554 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21998238563537598 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 16
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 5]***
+Turn count: 1, candidate length: 2009
+The user 1554 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [8]}
+Turn Count: 2 residual feature: ['School&Office']***ent position: [2]*** sim position: [6]***
+Turn count: 2, candidate length: 199
+The user 1554 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 3 residual feature: ['School&Office']***ent position: [2]*** sim position: [7]***
+Turn count: 3, candidate length: 199
+The user 1554 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 4 residual feature: ['School&Office']***ent position: [1]*** sim position: [7]***
+Turn count: 4, candidate length: 199
+The user 1554 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 5 residual feature: ['School&Office']***ent position: [1]*** sim position: [8]***
+Turn count: 5, candidate length: 199
+The user 1554 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 6 residual feature: ['School&Office']***ent position: [1]*** sim position: [8]***
+Turn count: 6, candidate length: 199
+The user 1554 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 7 residual feature: ['School&Office']***ent position: [1]*** sim position: [9]***
+Turn count: 7, candidate length: 199
+The user 1554 utterance in #8 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2465660572052002 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 17
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 6]***
+Turn count: 1, candidate length: 2009
+The user 1554 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 6]***
+Turn count: 2, candidate length: 2009
+The user 1554 utterance in #3 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.20913934707641602 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 18
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 5]***
+Turn count: 1, candidate length: 2009
+The user 1554 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'School&Office']***ent position: [0, 3]*** sim position: [9, 5]***
+Turn count: 2, candidate length: 2009
+The user 1554 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [8]}
+Turn Count: 3 residual feature: ['School&Office']***ent position: [2]*** sim position: [6]***
+Turn count: 3, candidate length: 199
+The user 1554 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 4 residual feature: ['School&Office']***ent position: [1]*** sim position: [6]***
+Turn count: 4, candidate length: 199
+The user 1554 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': [58]}
+Turn count: 5, candidate length: 1
+The user 1554 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2523772716522217 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 19
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [8]}
+Turn Count: 1 residual feature: ['School&Office']***ent position: [3]*** sim position: [6]***
+Turn count: 1, candidate length: 199
+The user 1554 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.24048852920532227 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 20
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 5]***
+Turn count: 1, candidate length: 2009
+The user 1554 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [8]}
+Turn Count: 2 residual feature: ['School&Office']***ent position: [2]*** sim position: [6]***
+Turn count: 2, candidate length: 199
+The user 1554 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': [58]}
+Turn count: 3, candidate length: 1
+The user 1554 utterance in #4 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.09000000357627869, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.24776220321655273 SECONDS
+Starting new
+user ID: 1554, item ID: 1977 episode count: 21
+The user 1554 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1554 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': [58]}
+Turn Count: 1 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 1, candidate length: 25
+The user 1554 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 2 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 2, candidate length: 25
+The user 1554 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [8]}
+Turn count: 3, candidate length: 1
+The user 1554 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn count: 4, candidate length: 1
+The user 1554 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn count: 5, candidate length: 1
+The user 1554 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2337174415588379 SECONDS
+Starting new
+user ID: 1550, item ID: 1969 episode count: 22
+The user 1550 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Shop', 'clusters']***ent position: [1, 0]*** sim position: [1, 9]***
+Turn count: 0, candidate length: 2009
+The user 1550 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['Shop', 'clusters']***ent position: [1, 0]*** sim position: [2, 9]***
+Turn count: 1, candidate length: 2009
+The user 1550 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [7]}
+Turn Count: 2 residual feature: ['Shop']***ent position: [4]*** sim position: [3]***
+Turn count: 2, candidate length: 140
+The user 1550 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 3 residual feature: ['Shop']***ent position: [3]*** sim position: [4]***
+Turn count: 3, candidate length: 140
+The user 1550 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 4 residual feature: ['Shop']***ent position: [2]*** sim position: [5]***
+Turn count: 4, candidate length: 140
+The user 1550 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': [148]}
+Turn count: 5, candidate length: 1
+The user 1550 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.24677443504333496 SECONDS
+Starting new
+user ID: 1553, item ID: 1973 episode count: 23
+The user 1553 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1553 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [92]}
+Turn Count: 1 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 1, candidate length: 4
+The user 1553 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [2]}
+Turn count: 2, candidate length: 1
+The user 1553 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn count: 3, candidate length: 1
+The user 1553 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn count: 4, candidate length: 1
+The user 1553 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn count: 5, candidate length: 1
+The user 1553 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.23139572143554688 SECONDS
+Starting new
+user ID: 1553, item ID: 1973 episode count: 24
+The user 1553 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1553 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1553 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1553 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 3 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 5]***
+Turn count: 3, candidate length: 2009
+The user 1553 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 4 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 6]***
+Turn count: 4, candidate length: 2009
+The user 1553 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 5 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 7]***
+Turn count: 5, candidate length: 2009
+The user 1553 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 6 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 8]***
+Turn count: 6, candidate length: 2009
+The user 1553 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [92]}
+Turn Count: 7 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 7, candidate length: 4
+The user 1553 utterance in #8 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 4}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2216014862060547 SECONDS
+Starting new
+user ID: 1553, item ID: 1973 episode count: 25
+The user 1553 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1553 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1553 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 4, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2162151336669922 SECONDS
+Starting new
+user ID: 1553, item ID: 1973 episode count: 26
+The user 1553 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1553 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1553 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 5]***
+Turn count: 2, candidate length: 2009
+The user 1553 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [92]}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 4
+The user 1553 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 4 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 4, candidate length: 4
+The user 1553 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 5 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 5, candidate length: 4
+The user 1553 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 6 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 6, candidate length: 4
+The user 1553 utterance in #7 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 4}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.23035478591918945 SECONDS
+Starting new
+user ID: 1275, item ID: 1783 episode count: 27
+The user 1275 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Nightlife Spot', 'clusters']***ent position: [6, 0]*** sim position: [6, 9]***
+Turn count: 0, candidate length: 2009
+The user 1275 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 1 residual feature: ['Nightlife Spot', 'clusters']***ent position: [5, 0]*** sim position: [6, 9]***
+Turn count: 1, candidate length: 2009
+The user 1275 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 2 residual feature: ['Nightlife Spot', 'clusters']***ent position: [5, 0]*** sim position: [7, 9]***
+Turn count: 2, candidate length: 2009
+The user 1275 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn Count: 3 residual feature: ['Nightlife Spot', 'clusters']***ent position: [4, 0]*** sim position: [7, 9]***
+Turn count: 3, candidate length: 2009
+The user 1275 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 4 residual feature: ['Nightlife Spot', 'clusters']***ent position: [4, 0]*** sim position: [8, 9]***
+Turn count: 4, candidate length: 2009
+The user 1275 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 5 residual feature: ['Nightlife Spot', 'clusters']***ent position: [3, 0]*** sim position: [8, 9]***
+Turn count: 5, candidate length: 2009
+The user 1275 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 5, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2285914421081543 SECONDS
+Starting new
+user ID: 1503, item ID: 1935 episode count: 28
+The user 1503 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Nightlife Spot', 'clusters']***ent position: [6, 0]*** sim position: [6, 9]***
+Turn count: 0, candidate length: 2009
+The user 1503 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn Count: 1 residual feature: ['Nightlife Spot', 'clusters']***ent position: [5, 0]*** sim position: [6, 9]***
+Turn count: 1, candidate length: 2009
+The user 1503 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 2 residual feature: ['Nightlife Spot', 'clusters']***ent position: [4, 0]*** sim position: [6, 9]***
+Turn count: 2, candidate length: 2009
+The user 1503 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 3 residual feature: ['Nightlife Spot', 'clusters']***ent position: [3, 0]*** sim position: [6, 9]***
+Turn count: 3, candidate length: 2009
+The user 1503 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 4 residual feature: ['Nightlife Spot', 'clusters']***ent position: [2, 0]*** sim position: [6, 9]***
+Turn count: 4, candidate length: 2009
+The user 1503 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': [175]}
+Turn Count: 5 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 5, candidate length: 49
+The user 1503 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.3204619884490967 SECONDS
+Starting new
+user ID: 808, item ID: 1389 episode count: 29
+The user 808 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Drink', 'clusters']***ent position: [8, 0]*** sim position: [8, 9]***
+Turn count: 0, candidate length: 2009
+The user 808 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 1 residual feature: ['Drink', 'clusters']***ent position: [7, 0]*** sim position: [8, 9]***
+Turn count: 1, candidate length: 2009
+The user 808 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 2 residual feature: ['Drink', 'clusters']***ent position: [6, 0]*** sim position: [8, 9]***
+Turn count: 2, candidate length: 2009
+The user 808 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': [55]}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 121
+The user 808 utterance in #4 turn, type: REJECT_REC, data: {'rejected_item_list': ['203', '1130', '984', '1505', '875', '651', '1409', '1174', '1351', '1702']}
+Turn count: 4, candidate length: 121
+The user 808 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [1]}
+Turn count: 5, candidate length: 20
+The user 808 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn count: 6, candidate length: 20
+The user 808 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn count: 7, candidate length: 20
+The user 808 utterance in #8 turn, type: ACCEPT_REC, data: {'ranking': 2, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.10000000149011612, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.48665308952331543 SECONDS
+Starting new
+user ID: 1575, item ID: 2013 episode count: 30
+The user 1575 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1575 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [7]}
+Turn Count: 1 residual feature: ['Outdoor']***ent position: [2]*** sim position: [4]***
+Turn count: 1, candidate length: 140
+The user 1575 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 2 residual feature: ['Outdoor']***ent position: [2]*** sim position: [5]***
+Turn count: 2, candidate length: 140
+The user 1575 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 3 residual feature: ['Outdoor']***ent position: [2]*** sim position: [6]***
+Turn count: 3, candidate length: 140
+The user 1575 utterance in #4 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+$$$current turn: 30, a3: 5.7272727272727275, a2: 5.0, a1: 6.3
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.3385603427886963 SECONDS
+Starting new
+user ID: 1575, item ID: 2013 episode count: 31
+The user 1575 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1575 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1575 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1575 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 3 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 5]***
+Turn count: 3, candidate length: 2009
+The user 1575 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [167]}
+Turn Count: 4 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 4, candidate length: 11
+The user 1575 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 5 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 5, candidate length: 11
+The user 1575 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 6 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 6, candidate length: 11
+The user 1575 utterance in #7 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.3418266773223877 SECONDS
+Starting new
+user ID: 1004, item ID: 1581 episode count: 32
+The user 1004 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1004 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': [13]}
+Turn Count: 1 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 1, candidate length: 46
+The user 1004 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [0]}
+Turn count: 2, candidate length: 10
+The user 1004 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn count: 3, candidate length: 10
+The user 1004 utterance in #4 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, 0.09000000357627869, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.31900882720947266 SECONDS
+Starting new
+user ID: 967, item ID: 1549 episode count: 33
+The user 967 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 967 utterance in #1 turn, type: REJECT_REC, data: {'rejected_item_list': ['1833', '1702', '477', '1669', '1924', '955', '1058', '694', '574', '834']}
+Turn count: 1, candidate length: 2009
+The user 967 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': [93]}
+Turn Count: 2 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 2, candidate length: 60
+The user 967 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 60
+The user 967 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [1]}
+Turn count: 4, candidate length: 11
+The user 967 utterance in #5 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.10000000149011612, 0.09000000357627869, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.7338242530822754 SECONDS
+Starting new
+user ID: 850, item ID: 1433 episode count: 34
+The user 850 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 850 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 850 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [7]}
+Turn Count: 2 residual feature: ['Food']***ent position: [0]*** sim position: [4]***
+Turn count: 2, candidate length: 140
+The user 850 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 3 residual feature: ['Food']***ent position: [0]*** sim position: [5]***
+Turn count: 3, candidate length: 140
+The user 850 utterance in #4 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.09000000357627869, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.30728697776794434 SECONDS
+Starting new
+user ID: 850, item ID: 1433 episode count: 35
+The user 850 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 850 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 850 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21915078163146973 SECONDS
+Starting new
+user ID: 1585, item ID: 2045 episode count: 36
+The user 1585 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1585 utterance in #1 turn, type: ACCEPT_REC, data: {'ranking': 2, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21663737297058105 SECONDS
+Starting new
+user ID: 1585, item ID: 2045 episode count: 37
+The user 1585 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1585 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 5]***
+Turn count: 1, candidate length: 2009
+The user 1585 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 2, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21133732795715332 SECONDS
+Starting new
+user ID: 1585, item ID: 2045 episode count: 38
+The user 1585 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1585 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 5]***
+Turn count: 1, candidate length: 2009
+The user 1585 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 6]***
+Turn count: 2, candidate length: 2009
+The user 1585 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 3 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 7]***
+Turn count: 3, candidate length: 2009
+The user 1585 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn Count: 4 residual feature: ['clusters', 'School&Office']***ent position: [0, 3]*** sim position: [9, 7]***
+Turn count: 4, candidate length: 2009
+The user 1585 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 5 residual feature: ['clusters', 'School&Office']***ent position: [0, 2]*** sim position: [9, 7]***
+Turn count: 5, candidate length: 2009
+The user 1585 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': [59]}
+Turn Count: 6 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 6, candidate length: 5
+The user 1585 utterance in #7 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 5}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2286829948425293 SECONDS
+Starting new
+user ID: 1585, item ID: 2045 episode count: 39
+The user 1585 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1585 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [4]}
+Turn Count: 1 residual feature: ['School&Office']***ent position: [3]*** sim position: [6]***
+Turn count: 1, candidate length: 159
+The user 1585 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 2 residual feature: ['School&Office']***ent position: [3]*** sim position: [7]***
+Turn count: 2, candidate length: 159
+The user 1585 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 3 residual feature: ['School&Office']***ent position: [3]*** sim position: [7]***
+Turn count: 3, candidate length: 159
+The user 1585 utterance in #4 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.24408388137817383 SECONDS
+Starting new
+user ID: 668, item ID: 1023 episode count: 40
+The user 668 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Drink', 'clusters']***ent position: [8, 0]*** sim position: [8, 9]***
+Turn count: 0, candidate length: 2009
+The user 668 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': [55]}
+Turn Count: 1 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 1, candidate length: 121
+The user 668 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+$$$current turn: 40, a3: 3.8181818181818183, a2: 5.9, a1: 5.0
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2368466854095459 SECONDS
+Starting new
+user ID: 1566, item ID: 1998 episode count: 41
+The user 1566 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1566 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1566 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1566 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [167]}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 11
+The user 1566 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 4 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 4, candidate length: 11
+The user 1566 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 5 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 5, candidate length: 11
+The user 1566 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 6 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 6, candidate length: 11
+The user 1566 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn Count: 7 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 7, candidate length: 11
+The user 1566 utterance in #8 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 8 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 8, candidate length: 11
+The user 1566 utterance in #9 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.22425460815429688 SECONDS
+Starting new
+user ID: 1566, item ID: 1998 episode count: 42
+The user 1566 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1566 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1566 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [167]}
+Turn Count: 2 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 2, candidate length: 11
+The user 1566 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 11
+The user 1566 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 4 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 4, candidate length: 11
+The user 1566 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 5 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 5, candidate length: 11
+The user 1566 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 6 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 6, candidate length: 11
+The user 1566 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 7 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 7, candidate length: 11
+The user 1566 utterance in #8 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [2]}
+Turn count: 8, candidate length: 3
+The user 1566 utterance in #9 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 3}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.23687982559204102 SECONDS
+Starting new
+user ID: 1164, item ID: 1401 episode count: 43
+The user 1164 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Shop', 'clusters']***ent position: [1, 0]*** sim position: [1, 9]***
+Turn count: 0, candidate length: 2009
+The user 1164 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [7]}
+Turn Count: 1 residual feature: ['Shop']***ent position: [4]*** sim position: [2]***
+Turn count: 1, candidate length: 140
+The user 1164 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 2 residual feature: ['Shop']***ent position: [3]*** sim position: [3]***
+Turn count: 2, candidate length: 140
+The user 1164 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 3 residual feature: ['Shop']***ent position: [3]*** sim position: [4]***
+Turn count: 3, candidate length: 140
+The user 1164 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 4 residual feature: ['Shop']***ent position: [3]*** sim position: [5]***
+Turn count: 4, candidate length: 140
+The user 1164 utterance in #5 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.23827528953552246 SECONDS
+Starting new
+user ID: 1480, item ID: 1037 episode count: 44
+The user 1480 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1480 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1480 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1480 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [1]}
+Turn Count: 3 residual feature: ['Food']***ent position: [0]*** sim position: [5]***
+Turn count: 3, candidate length: 197
+The user 1480 utterance in #4 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.24977493286132812 SECONDS
+Starting new
+user ID: 1480, item ID: 1037 episode count: 45
+The user 1480 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1480 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1480 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1480 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 3 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 5]***
+Turn count: 3, candidate length: 2009
+The user 1480 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 4 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 6]***
+Turn count: 4, candidate length: 2009
+The user 1480 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [1]}
+Turn Count: 5 residual feature: ['Food']***ent position: [0]*** sim position: [7]***
+Turn count: 5, candidate length: 197
+The user 1480 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.24021410942077637 SECONDS
+Starting new
+user ID: 1119, item ID: 1671 episode count: 46
+The user 1119 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1119 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1119 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1119 utterance in #3 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21530699729919434 SECONDS
+Starting new
+user ID: 1119, item ID: 1671 episode count: 47
+The user 1119 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1119 utterance in #1 turn, type: ACCEPT_REC, data: {'ranking': 2, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21579837799072266 SECONDS
+Starting new
+user ID: 1119, item ID: 1671 episode count: 48
+The user 1119 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1119 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1119 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 5]***
+Turn count: 2, candidate length: 2009
+The user 1119 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [8]}
+Turn Count: 3 residual feature: ['Outdoor']***ent position: [1]*** sim position: [6]***
+Turn count: 3, candidate length: 199
+The user 1119 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 4 residual feature: ['Outdoor']***ent position: [1]*** sim position: [7]***
+Turn count: 4, candidate length: 199
+The user 1119 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': [92]}
+Turn count: 5, candidate length: 2
+The user 1119 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 2}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.25220274925231934 SECONDS
+Starting new
+user ID: 1119, item ID: 1671 episode count: 49
+The user 1119 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1119 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1119 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21004319190979004 SECONDS
+Starting new
+user ID: 1592, item ID: 2101 episode count: 50
+The user 1592 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1592 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': [101]}
+Turn Count: 1 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 1, candidate length: 1
+The user 1592 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 2 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 2, candidate length: 1
+The user 1592 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 1
+The user 1592 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 4 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 4, candidate length: 1
+The user 1592 utterance in #5 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+$$$current turn: 50, a3: 4.7272727272727275, a2: 4.0, a1: 5.9
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.22266697883605957 SECONDS
+Starting new
+user ID: 1592, item ID: 2101 episode count: 51
+The user 1592 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1592 utterance in #1 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21752166748046875 SECONDS
+Starting new
+user ID: 1592, item ID: 2101 episode count: 52
+The user 1592 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1592 utterance in #1 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2198038101196289 SECONDS
+Starting new
+user ID: 1592, item ID: 2101 episode count: 53
+The user 1592 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1592 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1592 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21268153190612793 SECONDS
+Starting new
+user ID: 1592, item ID: 2101 episode count: 54
+The user 1592 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1592 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1592 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1592 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 3 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 5]***
+Turn count: 3, candidate length: 2009
+The user 1592 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': [101]}
+Turn Count: 4 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 4, candidate length: 1
+The user 1592 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 5 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 5, candidate length: 1
+The user 1592 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 6 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 6, candidate length: 1
+The user 1592 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 7 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 7, candidate length: 1
+The user 1592 utterance in #8 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21836304664611816 SECONDS
+Starting new
+user ID: 1592, item ID: 2101 episode count: 55
+The user 1592 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1592 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': [101]}
+Turn Count: 1 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 1, candidate length: 1
+The user 1592 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 2 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 2, candidate length: 1
+The user 1592 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 1
+The user 1592 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 4 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 4, candidate length: 1
+The user 1592 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 5 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 5, candidate length: 1
+The user 1592 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [0]}
+Turn count: 6, candidate length: 1
+The user 1592 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn count: 7, candidate length: 1
+The user 1592 utterance in #8 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 1}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.23229432106018066 SECONDS
+Starting new
+user ID: 1592, item ID: 2101 episode count: 56
+The user 1592 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1592 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [0]}
+Turn Count: 1 residual feature: ['Food']***ent position: [0]*** sim position: [3]***
+Turn count: 1, candidate length: 509
+The user 1592 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.27567315101623535 SECONDS
+Starting new
+user ID: 1592, item ID: 2101 episode count: 57
+The user 1592 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1592 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1592 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.22000908851623535 SECONDS
+Starting new
+user ID: 1592, item ID: 2101 episode count: 58
+The user 1592 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1592 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1592 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.20947623252868652 SECONDS
+Starting new
+user ID: 1592, item ID: 2102 episode count: 59
+The user 1592 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Shop', 'clusters']***ent position: [1, 0]*** sim position: [1, 9]***
+Turn count: 0, candidate length: 2009
+The user 1592 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 1 residual feature: ['Shop', 'clusters']***ent position: [1, 0]*** sim position: [2, 9]***
+Turn count: 1, candidate length: 2009
+The user 1592 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 2 residual feature: ['Shop', 'clusters']***ent position: [1, 0]*** sim position: [3, 9]***
+Turn count: 2, candidate length: 2009
+The user 1592 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 3 residual feature: ['Shop', 'clusters']***ent position: [1, 0]*** sim position: [4, 9]***
+Turn count: 3, candidate length: 2009
+The user 1592 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 4 residual feature: ['Shop', 'clusters']***ent position: [1, 0]*** sim position: [5, 9]***
+Turn count: 4, candidate length: 2009
+The user 1592 utterance in #5 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.22410988807678223 SECONDS
+Starting new
+user ID: 1437, item ID: 1896 episode count: 60
+The user 1437 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1437 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1437 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1437 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 3 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 5]***
+Turn count: 3, candidate length: 2009
+The user 1437 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [1]}
+Turn Count: 4 residual feature: ['Outdoor']***ent position: [1]*** sim position: [6]***
+Turn count: 4, candidate length: 197
+The user 1437 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 5 residual feature: ['Outdoor']***ent position: [1]*** sim position: [7]***
+Turn count: 5, candidate length: 197
+The user 1437 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 6 residual feature: ['Outdoor']***ent position: [1]*** sim position: [8]***
+Turn count: 6, candidate length: 197
+The user 1437 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 7 residual feature: ['Outdoor']***ent position: [0]*** sim position: [8]***
+Turn count: 7, candidate length: 197
+The user 1437 utterance in #8 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 8 residual feature: ['Outdoor']***ent position: [0]*** sim position: [9]***
+Turn count: 8, candidate length: 197
+The user 1437 utterance in #9 turn, type: ACCEPT_REC, data: {'ranking': 2, 'total': 10}
+$$$current turn: 60, a3: 4.090909090909091, a2: 4.7, a1: 4.0
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2530026435852051 SECONDS
+Starting new
+user ID: 1437, item ID: 1896 episode count: 61
+The user 1437 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1437 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 4]***
+Turn count: 1, candidate length: 2009
+The user 1437 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 8, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2151648998260498 SECONDS
+Starting new
+user ID: 1515, item ID: 1941 episode count: 62
+The user 1515 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1515 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 4]*** sim position: [9, 5]***
+Turn count: 1, candidate length: 2009
+The user 1515 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.21346831321716309 SECONDS
+Starting new
+user ID: 1515, item ID: 1941 episode count: 63
+The user 1515 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 5]***
+Turn count: 0, candidate length: 2009
+The user 1515 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'School&Office']***ent position: [0, 5]*** sim position: [9, 6]***
+Turn count: 1, candidate length: 2009
+The user 1515 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [9]}
+Turn Count: 2 residual feature: ['School&Office']***ent position: [3]*** sim position: [7]***
+Turn count: 2, candidate length: 117
+The user 1515 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 3 residual feature: ['School&Office']***ent position: [2]*** sim position: [7]***
+Turn count: 3, candidate length: 117
+The user 1515 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 4 residual feature: ['School&Office']***ent position: [2]*** sim position: [8]***
+Turn count: 4, candidate length: 117
+The user 1515 utterance in #5 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2381303310394287 SECONDS
+Starting new
+user ID: 1542, item ID: 1961 episode count: 64
+The user 1542 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 2]***
+Turn count: 0, candidate length: 2009
+The user 1542 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1542 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 2 residual feature: ['clusters', 'Food']***ent position: [0, 2]*** sim position: [9, 4]***
+Turn count: 2, candidate length: 2009
+The user 1542 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [7]}
+Turn Count: 3 residual feature: ['Food']***ent position: [0]*** sim position: [5]***
+Turn count: 3, candidate length: 140
+The user 1542 utterance in #4 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, 0.09000000357627869, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.2380516529083252 SECONDS
+Starting new
+user ID: 1542, item ID: 1962 episode count: 65
+The user 1542 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Nightlife Spot', 'clusters']***ent position: [6, 0]*** sim position: [6, 9]***
+Turn count: 0, candidate length: 2009
+The user 1542 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': None}
+Turn Count: 1 residual feature: ['Nightlife Spot', 'clusters']***ent position: [6, 0]*** sim position: [7, 9]***
+Turn count: 1, candidate length: 2009
+The user 1542 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 2 residual feature: ['Nightlife Spot', 'clusters']***ent position: [5, 0]*** sim position: [7, 9]***
+Turn count: 2, candidate length: 2009
+The user 1542 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 3 residual feature: ['Nightlife Spot', 'clusters']***ent position: [4, 0]*** sim position: [7, 9]***
+Turn count: 3, candidate length: 2009
+The user 1542 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [6]}
+Turn Count: 4 residual feature: ['Nightlife Spot']***ent position: [2]*** sim position: [8]***
+Turn count: 4, candidate length: 279
+The user 1542 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 5 residual feature: ['Nightlife Spot']***ent position: [2]*** sim position: [9]***
+Turn count: 5, candidate length: 279
+The user 1542 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.25141072273254395 SECONDS
+Starting new
+user ID: 1586, item ID: 2048 episode count: 66
+The user 1586 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['clusters', 'Outdoor']***ent position: [0, 3]*** sim position: [9, 3]***
+Turn count: 0, candidate length: 2009
+The user 1586 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 1 residual feature: ['clusters', 'Outdoor']***ent position: [0, 2]*** sim position: [9, 3]***
+Turn count: 1, candidate length: 2009
+The user 1586 utterance in #2 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.22089266777038574 SECONDS
+Starting new
+user ID: 1588, item ID: 2061 episode count: 67
+The user 1588 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Travel Spot', 'clusters']***ent position: [7, 0]*** sim position: [7, 9]***
+Turn count: 0, candidate length: 2009
+The user 1588 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 1 residual feature: ['Travel Spot', 'clusters']***ent position: [6, 0]*** sim position: [7, 9]***
+Turn count: 1, candidate length: 2009
+The user 1588 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn Count: 2 residual feature: ['Travel Spot', 'clusters']***ent position: [5, 0]*** sim position: [7, 9]***
+Turn count: 2, candidate length: 2009
+The user 1588 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 3 residual feature: ['Travel Spot', 'clusters']***ent position: [5, 0]*** sim position: [8, 9]***
+Turn count: 3, candidate length: 2009
+The user 1588 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [3]}
+Turn Count: 4 residual feature: ['Travel Spot']***ent position: [3]*** sim position: [9]***
+Turn count: 4, candidate length: 20
+The user 1588 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 5 residual feature: ['Travel Spot']***ent position: [2]*** sim position: [9]***
+Turn count: 5, candidate length: 20
+The user 1588 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 6 residual feature: ['Travel Spot']***ent position: [2]*** sim position: [9]***
+Turn count: 6, candidate length: 20
+The user 1588 utterance in #7 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 10}
+Big features are: ['POI_Type']
+reward is: [-0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.09000000357627869, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.34841036796569824 SECONDS
+Starting new
+user ID: 1588, item ID: 2061 episode count: 68
+The user 1588 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Travel Spot', 'clusters']***ent position: [7, 0]*** sim position: [7, 9]***
+Turn count: 0, candidate length: 2009
+The user 1588 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [3]}
+Turn Count: 1 residual feature: ['Travel Spot']***ent position: [3]*** sim position: [8]***
+Turn count: 1, candidate length: 20
+The user 1588 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': [186]}
+Turn count: 2, candidate length: 2
+The user 1588 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn count: 3, candidate length: 2
+The user 1588 utterance in #4 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 2}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, 0.09000000357627869, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.30036354064941406 SECONDS
+Starting new
+user ID: 1588, item ID: 2061 episode count: 69
+The user 1588 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Travel Spot', 'clusters']***ent position: [7, 0]*** sim position: [7, 9]***
+Turn count: 0, candidate length: 2009
+The user 1588 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': [186]}
+Turn Count: 1 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 1, candidate length: 9
+The user 1588 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'School&Office', 'value': None}
+Turn Count: 2 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 2, candidate length: 9
+The user 1588 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 3 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 3, candidate length: 9
+The user 1588 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 4 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 4, candidate length: 9
+The user 1588 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn Count: 5 residual feature: ['clusters']***ent position: [0]*** sim position: [9]***
+Turn count: 5, candidate length: 9
+The user 1588 utterance in #6 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 9}
+Big features are: ['POI_Type']
+reward is: [0.09000000357627869, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, -0.009999999776482582, 0.9900000095367432]
+WHOLE PROCESS TAKES: 0.22331595420837402 SECONDS
+Starting new
+user ID: 1588, item ID: 2061 episode count: 70
+The user 1588 utterance in #0 turn, type: INFORM_FACET, data: {'facet': 'POI_Type', 'value': [0]}
+Turn Count: 0 residual feature: ['Travel Spot', 'clusters']***ent position: [7, 0]*** sim position: [7, 9]***
+Turn count: 0, candidate length: 2009
+The user 1588 utterance in #1 turn, type: INFORM_FACET, data: {'facet': 'clusters', 'value': [3]}
+Turn Count: 1 residual feature: ['Travel Spot']***ent position: [3]*** sim position: [8]***
+Turn count: 1, candidate length: 20
+The user 1588 utterance in #2 turn, type: INFORM_FACET, data: {'facet': 'Shop', 'value': None}
+Turn Count: 2 residual feature: ['Travel Spot']***ent position: [3]*** sim position: [8]***
+Turn count: 2, candidate length: 20
+The user 1588 utterance in #3 turn, type: INFORM_FACET, data: {'facet': 'Drink', 'value': None}
+Turn Count: 3 residual feature: ['Travel Spot']***ent position: [3]*** sim position: [9]***
+Turn count: 3, candidate length: 20
+The user 1588 utterance in #4 turn, type: INFORM_FACET, data: {'facet': 'Food', 'value': None}
+Turn Count: 4 residual feature: ['Travel Spot']***ent position: [2]*** sim position: [9]***
+Turn count: 4, candidate length: 20
+The user 1588 utterance in #5 turn, type: INFORM_FACET, data: {'facet': 'Art&Entertainment', 'value': None}
+Turn Count: 5 residual feature: ['Travel Spot']***ent position: [1]*** sim position: [9]***
+Turn count: 5, candidate length: 20
+The user 1588 utterance in #6 turn, type: INFORM_FACET, data: {'facet': 'Nightlife Spot', 'value': None}
+Turn Count: 6 residual feature: ['Travel Spot']***ent position: [1]*** sim position: [9]***
+Turn count: 6, candidate length: 20
+The user 1588 utterance in #7 turn, type: INFORM_FACET, data: {'facet': 'Travel Spot', 'value': [186]}
+Turn count: 7, candidate length: 2
+The user 1588 utterance in #8 turn, type: INFORM_FACET, data: {'facet': 'Outdoor', 'value': None}
+Turn count: 8, candidate length: 2
+The user 1588 utterance in #9 turn, type: ACCEPT_REC, data: {'ranking': 1, 'total': 2}
+$$$current turn: 70, a3: 5.090909090909091, a2: 3.6, a1: 4.7

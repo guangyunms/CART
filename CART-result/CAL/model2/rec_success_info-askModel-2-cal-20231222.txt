@@ -1,0 +1,10 @@
+{"user_id": 2, "busi_id": 57, "rec_list": ["57"]}
+{"user_id": 13, "busi_id": 8, "rec_list": ["8", "166", "165", "81"]}
+{"user_id": 16, "busi_id": 230, "rec_list": ["230"]}
+{"user_id": 19, "busi_id": 68, "rec_list": ["68"]}
+{"user_id": 22, "busi_id": 289, "rec_list": ["289", "148", "266", "106", "413"]}
+{"user_id": 25, "busi_id": 9, "rec_list": ["9", "139", "224", "170", "186", "531", "5", "22", "387"]}
+{"user_id": 29, "busi_id": 39, "rec_list": ["39"]}
+{"user_id": 51, "busi_id": 476, "rec_list": ["476"]}
+{"user_id": 52, "busi_id": 68, "rec_list": ["68"]}
+{"user_id": 81, "busi_id": 93, "rec_list": ["93", "58", "70", "31", "372", "529"]}

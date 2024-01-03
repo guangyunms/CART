@@ -6,6 +6,7 @@ import random
 import torch
 from torch.autograd import Variable
 import numpy as np
+import time
 
 def auxiliary_reward():
     import pandas as pd
@@ -94,6 +95,10 @@ def run_one_episode(transE_model, user_id, busi_id, MAX_TURN, do_random, write_f
     start_signal = message(cfg.AGENT, cfg.USER, cfg.EPISODE_START, data)
  
     agent_utterance = None
+    
+    # 生成一个当前时间的字符串
+    time_str = time.strftime("%Y%m%d", time.localtime())
+    rec_record_file_path = 'rec_success_record-askModel-{}-'.format(0)
     while(the_agent.turn_count < MAX_TURN):
         if the_agent.turn_count == 0:
             user_utterance = the_user.response(start_signal) # user responses start_signal
@@ -103,6 +108,37 @@ def run_one_episode(transE_model, user_id, busi_id, MAX_TURN, do_random, write_f
             f.write('The user {} utterance in #{} turn, type: {}, data: {}\n'.format(user_id, the_agent.turn_count, user_utterance.message_type, user_utterance.data))
                 
         if user_utterance.message_type == cfg.ACCEPT_REC:
+            # 计算 hi rate
+            rec_1,rec_5,rec_10,mrr_1,mrr_5,mrr_10=0,0,0,0,0,0
+
+            if 0<user_utterance.data['ranking']<2:
+                rec_1=1
+                rec_5=1
+                rec_10=1
+                mrr_1=1/user_utterance.data['ranking']
+                mrr_5=1/user_utterance.data['ranking']
+                mrr_10=1/user_utterance.data['ranking']
+
+            elif 1<user_utterance.data['ranking']<6:
+                rec_5=1
+                rec_10=1
+                mrr_5=1/user_utterance.data['ranking']
+                mrr_10=1/user_utterance.data['ranking']
+
+            elif 5 < user_utterance.data['ranking'] < 11:
+                rec_10=1
+                mrr_10=1/user_utterance.data['ranking']
+            else:
+                print('error')
+            #print('the_agent.turn_count in epi',the_agent.turn_count)
+            rec_success_record_1=[the_agent.turn_count]+[rec_1]+[rec_5]+[rec_10]+[mrr_1]+[mrr_5]+[mrr_10]
+
+            # 将rec_success_record_1保存到文件中，文件名包含当前时间，
+            if cfg.purpose not in ['pretrain', 'fmdata']:
+                with open(rec_record_file_path+time_str+'.txt', 'a') as f:
+                    f.write(str(rec_success_record_1)+'\n')
+            
+            
             success = True
             the_agent.history_list.append(2) #success recommend get reward 2， look for auxiliary_reward
             rewards = get_reward(the_agent.history_list, gamma, trick)

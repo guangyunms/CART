@@ -1,0 +1,7 @@
+model0：原实验结果
+model1：去掉POI_Type
+model2：加入entropy
+model3：先问POI_Type
+
+
+* 变体实验时遇到valid数据集早停问题

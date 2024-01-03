@@ -1,0 +1,2032 @@
+Total feature length is: 10, Top 10 namely: ['clusters', 'Travel & Transport', 'Food', 'Nightlife Spot', 'Shop & Service', 'Arts & Entertainment', 'Professional & Other Places', 'College & University', 'Outdoors & Recreation', 'Event']
+clusters max: 10, category max: 148, feature max: 169
+Config takes: 1.761627435684204
+___Config Done!!___
+168
+Now Load PN pretrain from ./data-cal/PN-model-ours/PN-model-ours.txt, takes 0.0005106925964355469 seconds.
+-----
+It has processed 0 episodes
+----target item:  1
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 0.
+Rec Success! in episode: 0.
+total combined:  0
+-----
+It has processed 1 episodes
+----target item:  2
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 1.
+Rec Success! in episode: 1.
+total combined:  0
+-----
+It has processed 2 episodes
+----target item:  1
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 2.
+Rec Success! in episode: 2.
+total combined:  0
+-----
+It has processed 3 episodes
+----target item:  3
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 3.
+Rec Success! in episode: 3.
+total combined:  0
+-----
+It has processed 4 episodes
+----target item:  30
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 4.
+Rec Success! in episode: 4.
+total combined:  0
+-----
+It has processed 5 episodes
+----target item:  18
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[2, 1, 7, 3, 4, 6, 9, 12, 5, 0, 8, 10, 11]
+star_location_list:  [18, 213, 42, 33, 262]
+random_location_list [262  57 395 392 501  42]
+Random Combined Rec failed! in episode: 5.
+Random Combined Rec Success! in episode: 5.
+Rec Success! in episode: 5.
+total combined:  1
+-----
+It has processed 6 episodes
+----target item:  32
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 6.
+Rec Success! in episode: 6.
+total combined:  1
+-----
+It has processed 7 episodes
+----target item:  33
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 7.
+Rec Success! in episode: 7.
+total combined:  1
+-----
+It has processed 8 episodes
+----target item:  34
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+star_location_list:  [37, 52, 56]
+random_location_list [37, 52, 56]
+Random Combined Rec Success! in episode: 8.
+Random Combined Rec Success! in episode: 8.
+Rec Success! in episode: 8.
+total combined:  2
+-----
+It has processed 9 episodes
+----target item:  36
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 9.
+Rec Success! in episode: 9.
+total combined:  2
+-----
+It has processed 10 episodes
+----target item:  53
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[4, 0, 3, 1, 2]
+star_location_list:  [251, 687, 687, 64, 611]
+random_location_list [64, 80, 251, 611, 687]
+Random Combined Rec Success! in episode: 10.
+Random Combined Rec Success! in episode: 10.
+Rec Success! in episode: 10.
+total combined:  3
+-----
+It has processed 11 episodes
+----target item:  52
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 11.
+Rec Success! in episode: 11.
+total combined:  3
+-----
+It has processed 12 episodes
+----target item:  55
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 12.
+Rec Success! in episode: 12.
+total combined:  3
+-----
+It has processed 13 episodes
+----target item:  56
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 13.
+Rec Success! in episode: 13.
+total combined:  3
+-----
+It has processed 14 episodes
+----target item:  57
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 14.
+Rec Success! in episode: 14.
+total combined:  3
+-----
+It has processed 15 episodes
+----target item:  57
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 15.
+Rec Success! in episode: 15.
+total combined:  3
+-----
+It has processed 16 episodes
+----target item:  90
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[0, 1, 3, 5, 2, 4, 6]
+star_location_list:  [451, 550, 111, 435, 550]
+random_location_list [550 619 111]
+Random Combined Rec Success! in episode: 16.
+Random Combined Rec Success! in episode: 16.
+Rec Success! in episode: 16.
+total combined:  4
+-----
+It has processed 17 episodes
+----target item:  92
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[2, 3, 6, 7, 0, 1, 4, 5]
+star_location_list:  [160, 556, 131, 160, 556]
+random_location_list [114 556 113 443]
+Random Combined Rec Success! in episode: 17.
+Random Combined Rec failed! in episode: 17.
+Rec Success! in episode: 17.
+total combined:  5
+-----
+It has processed 18 episodes
+----target item:  92
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[2, 3, 6, 7, 0, 1, 4, 5]
+star_location_list:  [160, 556, 131, 160, 556]
+random_location_list [443 131 557 555]
+Random Combined Rec failed! in episode: 18.
+Random Combined Rec failed! in episode: 18.
+Rec Success! in episode: 18.
+total combined:  6
+-----
+It has processed 19 episodes
+----target item:  90
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[0, 1, 3, 5, 2, 4, 6]
+star_location_list:  [451, 550, 111, 435, 550]
+random_location_list [550 738 619]
+Random Combined Rec failed! in episode: 19.
+Random Combined Rec Success! in episode: 19.
+Rec Success! in episode: 19.
+total combined:  7
+-----
+It has processed 20 episodes
+----target item:  104
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+Max turn quit...
+gamma: 0
+total combined:  7
+-----
+It has processed 21 episodes
+----target item:  100
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[3, 0, 2, 4, 1]
+star_location_list:  [124, 627, 450, 124, 325]
+random_location_list [124, 134, 325, 450, 627]
+Random Combined Rec Success! in episode: 21.
+Random Combined Rec failed! in episode: 21.
+Rec Success! in episode: 21.
+total combined:  8
+-----
+It has processed 22 episodes
+----target item:  58
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[5, 3, 4, 0, 1, 2, 8, 9, 6, 7, 10, 11]
+star_location_list:  [361, 165, 147, 157]
+random_location_list [361 135 538 717 157 700]
+Random Combined Rec failed! in episode: 22.
+Random Combined Rec failed! in episode: 22.
+Rec Success! in episode: 22.
+total combined:  9
+-----
+It has processed 23 episodes
+----target item:  100
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+star_location_list:  [134, 450]
+random_location_list [134, 450]
+Random Combined Rec Success! in episode: 23.
+Random Combined Rec Success! in episode: 23.
+Rec Success! in episode: 23.
+total combined:  10
+-----
+It has processed 24 episodes
+----target item:  107
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 24.
+Rec Success! in episode: 24.
+total combined:  10
+-----
+It has processed 25 episodes
+----target item:  36
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 25.
+Rec Success! in episode: 25.
+total combined:  10
+-----
+It has processed 26 episodes
+----target item:  108
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 26.
+Rec Success! in episode: 26.
+total combined:  10
+-----
+It has processed 27 episodes
+----target item:  37
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 27.
+Rec Success! in episode: 27.
+total combined:  10
+-----
+It has processed 28 episodes
+----target item:  100
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[3, 0, 2, 4, 1]
+star_location_list:  [124, 627, 450, 124, 325]
+random_location_list [124, 134, 325, 450, 627]
+Random Combined Rec Success! in episode: 28.
+Random Combined Rec failed! in episode: 28.
+Rec Success! in episode: 28.
+total combined:  11
+-----
+It has processed 29 episodes
+----target item:  100
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+star_location_list:  [134, 450]
+random_location_list [134, 450]
+Random Combined Rec Success! in episode: 29.
+Random Combined Rec Success! in episode: 29.
+Rec Success! in episode: 29.
+total combined:  12
+-----
+It has processed 30 episodes
+----target item:  100
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+star_location_list:  [134, 325, 450]
+random_location_list [134, 325, 450]
+Random Combined Rec Success! in episode: 30.
+Random Combined Rec Success! in episode: 30.
+Rec Success! in episode: 30.
+total combined:  13
+-----
+It has processed 31 episodes
+----target item:  98
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 31.
+Rec Success! in episode: 31.
+total combined:  13
+-----
+It has processed 32 episodes
+----target item:  98
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 32.
+Rec Success! in episode: 32.
+total combined:  13
+-----
+It has processed 33 episodes
+----target item:  134
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 33.
+Rec Success! in episode: 33.
+total combined:  13
+-----
+It has processed 34 episodes
+----target item:  134
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 34.
+Rec Success! in episode: 34.
+total combined:  13
+-----
+It has processed 35 episodes
+----target item:  133
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 35.
+Rec Success! in episode: 35.
+total combined:  13
+-----
+It has processed 36 episodes
+----target item:  49
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+star_location_list:  [123, 177, 496]
+random_location_list [123, 177, 496]
+Random Combined Rec Success! in episode: 36.
+Random Combined Rec Success! in episode: 36.
+Rec Success! in episode: 36.
+total combined:  14
+-----
+It has processed 37 episodes
+----target item:  136
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 37.
+Rec Success! in episode: 37.
+total combined:  14
+-----
+It has processed 38 episodes
+----target item:  149
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 38.
+Rec Success! in episode: 38.
+total combined:  14
+-----
+It has processed 39 episodes
+----target item:  149
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 39.
+Rec Success! in episode: 39.
+total combined:  14
+-----
+It has processed 40 episodes
+----target item:  43
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+Max turn quit...
+gamma: 0
+total combined:  14
+-----
+It has processed 41 episodes
+----target item:  93
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[20, 21, 22, 2, 8, 9, 15, 18, 19, 0, 3, 14, 4, 6, 11, 17, 1, 5, 7, 12, 13, 16, 10]
+star_location_list:  [115, 130, 389, 537, 583, 712, 714, 737]
+random_location_list [533 389 245 697 537 358 130 116 534 416 564]
+Random Combined Rec Success! in episode: 41.
+Random Combined Rec failed! in episode: 41.
+Rec Success! in episode: 41.
+total combined:  15
+-----
+It has processed 42 episodes
+----target item:  162
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 42.
+Rec Success! in episode: 42.
+total combined:  15
+-----
+It has processed 43 episodes
+----target item:  163
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 43.
+Rec Success! in episode: 43.
+total combined:  15
+-----
+It has processed 44 episodes
+----target item:  164
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 44.
+Rec Success! in episode: 44.
+total combined:  15
+-----
+It has processed 45 episodes
+----target item:  118
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 45.
+Rec Success! in episode: 45.
+total combined:  15
+-----
+It has processed 46 episodes
+----target item:  116
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 46.
+Rec Success! in episode: 46.
+total combined:  15
+-----
+It has processed 47 episodes
+----target item:  187
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 47.
+Rec Success! in episode: 47.
+total combined:  15
+-----
+It has processed 48 episodes
+----target item:  58
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[5, 3, 4, 0, 1, 2, 8, 9, 6, 7, 10, 11]
+star_location_list:  [361, 165, 147, 157]
+random_location_list [538 147  69 157 256 135]
+Random Combined Rec failed! in episode: 48.
+Random Combined Rec failed! in episode: 48.
+Rec Success! in episode: 48.
+total combined:  16
+-----
+It has processed 49 episodes
+----target item:  201
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 49.
+Rec Success! in episode: 49.
+total combined:  16
+-----
+It has processed 50 episodes
+----target item:  150
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 50.
+Rec Success! in episode: 50.
+total combined:  16
+-----
+It has processed 51 episodes
+----target item:  58
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[5, 3, 4, 0, 1, 2, 8, 9, 6, 7, 10, 11]
+star_location_list:  [157, 256, 717, 165, 147, 157]
+random_location_list [361 256 717 165 538  69]
+Random Combined Rec failed! in episode: 51.
+Random Combined Rec failed! in episode: 51.
+Rec Success! in episode: 51.
+total combined:  17
+-----
+It has processed 52 episodes
+----target item:  221
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 52.
+Rec Success! in episode: 52.
+total combined:  17
+-----
+It has processed 53 episodes
+----target item:  162
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 53.
+Rec Success! in episode: 53.
+total combined:  17
+-----
+It has processed 54 episodes
+----target item:  223
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 54.
+Rec Success! in episode: 54.
+total combined:  17
+-----
+It has processed 55 episodes
+----target item:  8
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 55.
+Rec Success! in episode: 55.
+total combined:  17
+-----
+It has processed 56 episodes
+----target item:  225
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 56.
+Rec Success! in episode: 56.
+total combined:  17
+-----
+It has processed 57 episodes
+----target item:  241
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[5, 2, 6, 12, 13, 3, 4, 11, 1, 8, 10, 0, 7, 9]
+star_location_list:  [406, 445, 740, 441, 321, 442]
+random_location_list [303 322 444 553 581 530 441]
+Random Combined Rec Success! in episode: 57.
+Random Combined Rec failed! in episode: 57.
+Rec Success! in episode: 57.
+total combined:  18
+-----
+It has processed 58 episodes
+----target item:  100
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[3, 0, 2, 4, 1]
+star_location_list:  [124, 627, 450, 124, 325]
+random_location_list [124, 134, 325, 450, 627]
+Random Combined Rec Success! in episode: 58.
+Random Combined Rec Success! in episode: 58.
+Rec Success! in episode: 58.
+total combined:  19
+-----
+It has processed 59 episodes
+----target item:  258
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 59.
+Rec Success! in episode: 59.
+total combined:  19
+-----
+It has processed 60 episodes
+----target item:  230
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 60.
+Rec Success! in episode: 60.
+total combined:  19
+-----
+It has processed 61 episodes
+----target item:  211
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[1, 2, 3, 0, 4, 5, 6, 7]
+star_location_list:  [340, 575, 265, 335, 336]
+random_location_list [575 336 337 339]
+Random Combined Rec Success! in episode: 61.
+Random Combined Rec Success! in episode: 61.
+Rec Success! in episode: 61.
+total combined:  20
+-----
+It has processed 62 episodes
+----target item:  268
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 62.
+Rec Success! in episode: 62.
+total combined:  20
+-----
+It has processed 63 episodes
+----target item:  57
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 63.
+Rec Success! in episode: 63.
+total combined:  20
+-----
+It has processed 64 episodes
+----target item:  68
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 64.
+Rec Success! in episode: 64.
+total combined:  20
+-----
+It has processed 65 episodes
+----target item:  126
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 65.
+Rec Success! in episode: 65.
+total combined:  20
+-----
+It has processed 66 episodes
+----target item:  278
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 66.
+Rec Success! in episode: 66.
+total combined:  20
+-----
+It has processed 67 episodes
+----target item:  285
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 67.
+Rec Success! in episode: 67.
+total combined:  20
+-----
+It has processed 68 episodes
+----target item:  286
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 68.
+Rec Success! in episode: 68.
+total combined:  20
+-----
+It has processed 69 episodes
+----target item:  39
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 69.
+Rec Success! in episode: 69.
+total combined:  20
+-----
+It has processed 70 episodes
+----target item:  288
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 70.
+Rec Success! in episode: 70.
+total combined:  20
+-----
+It has processed 71 episodes
+----target item:  289
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+Max turn quit...
+gamma: 0
+total combined:  20
+-----
+It has processed 72 episodes
+----target item:  93
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[20, 21, 22, 2, 8, 9, 15, 18, 19, 0, 3, 14, 4, 6, 11, 17, 1, 5, 7, 12, 13, 16, 10]
+star_location_list:  [130, 712, 714, 737]
+random_location_list [580 533 116 181 696 389 737 245 537 583 712]
+Random Combined Rec Success! in episode: 72.
+Random Combined Rec failed! in episode: 72.
+Rec Success! in episode: 72.
+total combined:  21
+-----
+It has processed 73 episodes
+----target item:  311
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 73.
+Rec Success! in episode: 73.
+total combined:  21
+-----
+It has processed 74 episodes
+----target item:  18
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+star_location_list:  [392, 636]
+random_location_list [392, 636]
+Random Combined Rec Success! in episode: 74.
+Random Combined Rec Success! in episode: 74.
+Rec Success! in episode: 74.
+total combined:  22
+-----
+It has processed 75 episodes
+----target item:  114
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+star_location_list:  [145, 616]
+random_location_list [145, 616]
+Random Combined Rec Success! in episode: 75.
+Random Combined Rec Success! in episode: 75.
+Rec Success! in episode: 75.
+total combined:  23
+-----
+It has processed 76 episodes
+----target item:  327
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 76.
+Rec Success! in episode: 76.
+total combined:  23
+-----
+It has processed 77 episodes
+----target item:  23
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[0, 1, 2, 3, 4, 5]
+star_location_list:  [304, 24, 25, 304]
+random_location_list [ 25 304 485]
+Random Combined Rec failed! in episode: 77.
+Random Combined Rec failed! in episode: 77.
+Rec Success! in episode: 77.
+total combined:  24
+-----
+It has processed 78 episodes
+----target item:  9
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 78.
+Rec Success! in episode: 78.
+total combined:  24
+-----
+It has processed 79 episodes
+----target item:  328
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 79.
+Rec Success! in episode: 79.
+total combined:  24
+-----
+It has processed 80 episodes
+----target item:  58
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[5, 3, 4, 0, 1, 2, 8, 9, 6, 7, 10, 11]
+star_location_list:  [538, 700, 165, 147, 157]
+random_location_list [717 136 165 538 147 700]
+Random Combined Rec Success! in episode: 80.
+Random Combined Rec failed! in episode: 80.
+Rec Success! in episode: 80.
+total combined:  25
+-----
+It has processed 81 episodes
+----target item:  314
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 81.
+Rec Success! in episode: 81.
+total combined:  25
+-----
+It has processed 82 episodes
+----target item:  347
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 82.
+Rec Success! in episode: 82.
+total combined:  25
+-----
+It has processed 83 episodes
+----target item:  348
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 83.
+Rec Success! in episode: 83.
+total combined:  25
+-----
+It has processed 84 episodes
+----target item:  356
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 84.
+Rec Success! in episode: 84.
+total combined:  25
+-----
+It has processed 85 episodes
+----target item:  27
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 85.
+Rec Success! in episode: 85.
+total combined:  25
+-----
+It has processed 86 episodes
+----target item:  206
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 86.
+Rec Success! in episode: 86.
+total combined:  25
+-----
+It has processed 87 episodes
+----target item:  142
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 87.
+Rec Success! in episode: 87.
+total combined:  25
+-----
+It has processed 88 episodes
+----target item:  357
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 88.
+Rec Success! in episode: 88.
+total combined:  25
+-----
+It has processed 89 episodes
+----target item:  115
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 89.
+Rec Success! in episode: 89.
+total combined:  25
+-----
+It has processed 90 episodes
+----target item:  39
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+Max turn quit...
+gamma: 0
+total combined:  25
+-----
+It has processed 91 episodes
+----target item:  39
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+Max turn quit...
+gamma: 0
+total combined:  25
+-----
+It has processed 92 episodes
+----target item:  278
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 92.
+Rec Success! in episode: 92.
+total combined:  25
+-----
+It has processed 93 episodes
+----target item:  390
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 93.
+Rec Success! in episode: 93.
+total combined:  25
+-----
+It has processed 94 episodes
+----target item:  67
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 94.
+Rec Success! in episode: 94.
+total combined:  25
+-----
+It has processed 95 episodes
+----target item:  30
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 95.
+Rec Success! in episode: 95.
+total combined:  25
+-----
+It has processed 96 episodes
+----target item:  385
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 96.
+Rec Success! in episode: 96.
+total combined:  25
+-----
+It has processed 97 episodes
+----target item:  408
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 97.
+Rec Success! in episode: 97.
+total combined:  25
+-----
+It has processed 98 episodes
+----target item:  4
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 98.
+Rec Success! in episode: 98.
+total combined:  25
+-----
+It has processed 99 episodes
+----target item:  414
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 99.
+Rec Success! in episode: 99.
+total combined:  25
+-----
+It has processed 100 episodes
+----target item:  416
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 100.
+Rec Success! in episode: 100.
+total combined:  25
+-----
+It has processed 101 episodes
+----target item:  419
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 101.
+Rec Success! in episode: 101.
+total combined:  25
+-----
+It has processed 102 episodes
+----target item:  60
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 102.
+Rec Success! in episode: 102.
+total combined:  25
+-----
+It has processed 103 episodes
+----target item:  423
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 103.
+Rec Success! in episode: 103.
+total combined:  25
+-----
+It has processed 104 episodes
+----target item:  93
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[20, 21, 22, 2, 8, 9, 15, 18, 19, 0, 3, 14, 4, 6, 11, 17, 1, 5, 7, 12, 13, 16, 10]
+star_location_list:  [115, 130, 389, 537, 583, 712, 714, 737]
+random_location_list [116 532 564 245 181 583 534 416 537 540 714]
+Random Combined Rec failed! in episode: 104.
+Random Combined Rec failed! in episode: 104.
+Rec Success! in episode: 104.
+total combined:  26
+-----
+It has processed 105 episodes
+----target item:  427
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 105.
+Rec Success! in episode: 105.
+total combined:  26
+-----
+It has processed 106 episodes
+----target item:  431
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 106.
+Rec Success! in episode: 106.
+total combined:  26
+-----
+It has processed 107 episodes
+----target item:  432
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 107.
+Rec Success! in episode: 107.
+total combined:  26
+-----
+It has processed 108 episodes
+----target item:  434
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 108.
+Rec Success! in episode: 108.
+total combined:  26
+-----
+It has processed 109 episodes
+----target item:  67
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 109.
+Rec Success! in episode: 109.
+total combined:  26
+-----
+It has processed 110 episodes
+----target item:  241
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[5, 2, 6, 12, 13, 3, 4, 11, 1, 8, 10, 0, 7, 9]
+star_location_list:  [406, 445, 740, 441, 321, 442]
+random_location_list [553 406 444 441 445 321 318]
+Random Combined Rec Success! in episode: 110.
+Random Combined Rec failed! in episode: 110.
+Rec Success! in episode: 110.
+total combined:  27
+-----
+It has processed 111 episodes
+----target item:  37
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 111.
+Rec Success! in episode: 111.
+total combined:  27
+-----
+It has processed 112 episodes
+----target item:  447
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 112.
+Rec Success! in episode: 112.
+total combined:  27
+-----
+It has processed 113 episodes
+----target item:  448
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 113.
+Rec Success! in episode: 113.
+total combined:  27
+-----
+It has processed 114 episodes
+----target item:  455
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[0]
+star_location_list:  [578]
+random_location_list [578]
+Random Combined Rec Success! in episode: 114.
+Random Combined Rec Success! in episode: 114.
+Rec Success! in episode: 114.
+total combined:  28
+-----
+It has processed 115 episodes
+----target item:  458
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 115.
+Rec Success! in episode: 115.
+total combined:  28
+-----
+It has processed 116 episodes
+----target item:  460
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 116.
+Rec Success! in episode: 116.
+total combined:  28
+-----
+It has processed 117 episodes
+----target item:  468
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 117.
+Rec Success! in episode: 117.
+total combined:  28
+-----
+It has processed 118 episodes
+----target item:  204
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 118.
+Rec Success! in episode: 118.
+total combined:  28
+-----
+It has processed 119 episodes
+----target item:  280
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[1, 0, 2, 3]
+star_location_list:  [362, 353, 498]
+random_location_list [353, 362, 498, 603]
+Random Combined Rec Success! in episode: 119.
+Random Combined Rec failed! in episode: 119.
+Rec Success! in episode: 119.
+total combined:  29
+-----
+It has processed 120 episodes
+----target item:  42
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 120.
+Rec Success! in episode: 120.
+total combined:  29
+-----
+It has processed 121 episodes
+----target item:  476
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 121.
+Rec Success! in episode: 121.
+total combined:  29
+-----
+It has processed 122 episodes
+----target item:  68
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 122.
+Rec Success! in episode: 122.
+total combined:  29
+-----
+It has processed 123 episodes
+----target item:  478
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 123.
+Rec Success! in episode: 123.
+total combined:  29
+-----
+It has processed 124 episodes
+----target item:  388
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 124.
+Rec Success! in episode: 124.
+total combined:  29
+-----
+It has processed 125 episodes
+----target item:  12
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+star_location_list:  [12, 472, 673]
+random_location_list [12, 472, 673]
+Random Combined Rec Success! in episode: 125.
+Random Combined Rec Success! in episode: 125.
+Rec Success! in episode: 125.
+total combined:  30
+-----
+It has processed 126 episodes
+----target item:  480
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 126.
+Rec Success! in episode: 126.
+total combined:  30
+-----
+It has processed 127 episodes
+----target item:  211
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[1, 2, 3, 0, 4, 5, 6, 7]
+star_location_list:  [335, 336, 265, 335, 336]
+random_location_list [336 340 575 339]
+Random Combined Rec failed! in episode: 127.
+Random Combined Rec failed! in episode: 127.
+Rec Success! in episode: 127.
+total combined:  31
+-----
+It has processed 128 episodes
+----target item:  283
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+star_location_list:  [621, 680]
+random_location_list [621, 680]
+Random Combined Rec Success! in episode: 128.
+Random Combined Rec Success! in episode: 128.
+Rec Success! in episode: 128.
+total combined:  32
+-----
+It has processed 129 episodes
+----target item:  281
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 129.
+Rec Success! in episode: 129.
+total combined:  32
+-----
+It has processed 130 episodes
+----target item:  486
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 130.
+Rec Success! in episode: 130.
+total combined:  32
+-----
+It has processed 131 episodes
+----target item:  488
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 131.
+Rec Success! in episode: 131.
+total combined:  32
+-----
+It has processed 132 episodes
+----target item:  489
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 132.
+Rec Success! in episode: 132.
+total combined:  32
+-----
+It has processed 133 episodes
+----target item:  494
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 133.
+Rec Success! in episode: 133.
+total combined:  32
+-----
+It has processed 134 episodes
+----target item:  18
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+star_location_list:  [392, 636]
+random_location_list [392, 636]
+Random Combined Rec Success! in episode: 134.
+Random Combined Rec Success! in episode: 134.
+Rec Success! in episode: 134.
+total combined:  33
+-----
+It has processed 135 episodes
+----target item:  497
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 135.
+Rec Success! in episode: 135.
+total combined:  33
+-----
+It has processed 136 episodes
+----target item:  442
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 136.
+Rec Success! in episode: 136.
+total combined:  33
+-----
+It has processed 137 episodes
+----target item:  215
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 137.
+Rec Success! in episode: 137.
+total combined:  33
+-----
+It has processed 138 episodes
+----target item:  151
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 138.
+Rec Success! in episode: 138.
+total combined:  33
+-----
+It has processed 139 episodes
+----target item:  510
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 139.
+Rec Success! in episode: 139.
+total combined:  33
+-----
+It has processed 140 episodes
+----target item:  123
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 140.
+Rec Success! in episode: 140.
+total combined:  33
+-----
+It has processed 141 episodes
+----target item:  367
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 141.
+Rec Success! in episode: 141.
+total combined:  33
+-----
+It has processed 142 episodes
+----target item:  191
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 142.
+Rec Success! in episode: 142.
+total combined:  33
+-----
+It has processed 143 episodes
+----target item:  77
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 143.
+Rec Success! in episode: 143.
+total combined:  33
+-----
+It has processed 144 episodes
+----target item:  419
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 144.
+Rec Success! in episode: 144.
+total combined:  33
+-----
+It has processed 145 episodes
+----target item:  383
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 145.
+Rec Success! in episode: 145.
+total combined:  33
+-----
+It has processed 146 episodes
+----target item:  116
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 146.
+Rec Success! in episode: 146.
+total combined:  33
+-----
+It has processed 147 episodes
+----target item:  145
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 147.
+Rec Success! in episode: 147.
+total combined:  33
+-----
+It has processed 148 episodes
+----target item:  327
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 148.
+Rec Success! in episode: 148.
+total combined:  33
+-----
+It has processed 149 episodes
+----target item:  283
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[4, 1, 2, 3, 5, 0, 6, 7]
+star_location_list:  [601, 604, 604, 357, 599]
+random_location_list [356 680 601 679]
+Random Combined Rec failed! in episode: 149.
+Random Combined Rec Success! in episode: 149.
+Rec Success! in episode: 149.
+total combined:  34
+-----
+It has processed 150 episodes
+----target item:  541
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 150.
+Rec Success! in episode: 150.
+total combined:  34
+-----
+It has processed 151 episodes
+----target item:  178
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 151.
+Rec Success! in episode: 151.
+total combined:  34
+-----
+It has processed 152 episodes
+----target item:  378
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 152.
+Rec Success! in episode: 152.
+total combined:  34
+-----
+It has processed 153 episodes
+----target item:  545
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([9], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 153.
+Rec Success! in episode: 153.
+total combined:  34
+-----
+It has processed 154 episodes
+----target item:  93
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[20, 21, 22, 2, 8, 9, 15, 18, 19, 0, 3, 14, 4, 6, 11, 17, 1, 5, 7, 12, 13, 16, 10]
+star_location_list:  [115, 130, 389, 537, 583, 712, 714, 737]
+random_location_list [714 245 540 579 181 533 537 583 564 358 130]
+Random Combined Rec Success! in episode: 154.
+Random Combined Rec failed! in episode: 154.
+Rec Success! in episode: 154.
+total combined:  35
+-----
+It has processed 155 episodes
+----target item:  551
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 155.
+Rec Success! in episode: 155.
+total combined:  35
+-----
+It has processed 156 episodes
+----target item:  553
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 156.
+Rec Success! in episode: 156.
+total combined:  35
+-----
+It has processed 157 episodes
+----target item:  93
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[20, 21, 22, 2, 8, 9, 15, 18, 19, 0, 3, 14, 4, 6, 11, 17, 1, 5, 7, 12, 13, 16, 10]
+star_location_list:  [115, 130, 389, 537, 583, 712, 714, 737]
+random_location_list [580 583 116 126 537 737 534 696 564 540 697]
+Random Combined Rec failed! in episode: 157.
+Random Combined Rec Success! in episode: 157.
+Rec Success! in episode: 157.
+total combined:  36
+-----
+It has processed 158 episodes
+----target item:  93
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[20, 21, 22, 2, 8, 9, 15, 18, 19, 0, 3, 14, 4, 6, 11, 17, 1, 5, 7, 12, 13, 16, 10]
+star_location_list:  [533, 534, 697, 712, 714, 737]
+random_location_list [389 580 116 130 540 534 533 532 564 537 696]
+Random Combined Rec failed! in episode: 158.
+Random Combined Rec Success! in episode: 158.
+Rec Success! in episode: 158.
+total combined:  37
+-----
+It has processed 159 episodes
+----target item:  37
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 159.
+Rec Success! in episode: 159.
+total combined:  37
+-----
+It has processed 160 episodes
+----target item:  564
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 160.
+Rec Success! in episode: 160.
+total combined:  37
+-----
+It has processed 161 episodes
+----target item:  567
+action is: tensor([6], dtype=torch.int32)
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 161.
+Rec Success! in episode: 161.
+total combined:  37
+-----
+It has processed 162 episodes
+----target item:  39
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([0], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 162.
+Rec Success! in episode: 162.
+total combined:  37
+-----
+It has processed 163 episodes
+----target item:  522
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 163.
+Rec Success! in episode: 163.
+total combined:  37
+-----
+It has processed 164 episodes
+----target item:  470
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 164.
+Rec Success! in episode: 164.
+total combined:  37
+-----
+It has processed 165 episodes
+----target item:  571
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 165.
+Rec Success! in episode: 165.
+total combined:  37
+-----
+It has processed 166 episodes
+----target item:  578
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([2], dtype=torch.int32)
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 166.
+Rec Success! in episode: 166.
+total combined:  37
+-----
+It has processed 167 episodes
+----target item:  580
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 167.
+Rec Success! in episode: 167.
+total combined:  37
+-----
+It has processed 168 episodes
+----target item:  58
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+[5, 3, 4, 0, 1, 2, 8, 9, 6, 7, 10, 11]
+star_location_list:  [361, 165, 147, 157]
+random_location_list [717 185 361 700 256 136]
+Random Combined Rec failed! in episode: 168.
+Random Combined Rec Success! in episode: 168.
+Rec Success! in episode: 168.
+total combined:  38
+-----
+It has processed 169 episodes
+----target item:  584
+action is: tensor([7], dtype=torch.int32)
+action is: tensor([3], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([5], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 169.
+Rec Success! in episode: 169.
+total combined:  38
+-----
+It has processed 170 episodes
+----target item:  503
+action is: tensor([1], dtype=torch.int32)
+action is: tensor([8], dtype=torch.int32)
+action is: tensor([4], dtype=torch.int32)
+action is: tensor([10], dtype=torch.int32)
+gamma: 0
+Independent Rec Success! in episode: 170.
+Rec Success! in episode: 170.
+total combined:  38
+
+Location result:
+success rate is 0.0 at turn 1, accumulated sum is 0.0
+success rate is 0.15204678362573099 at turn 2, accumulated sum is 0.15204678362573099
+success rate is 0.08771929824561403 at turn 3, accumulated sum is 0.23976608187134502
+success rate is 0.0935672514619883 at turn 4, accumulated sum is 0.3333333333333333
+success rate is 0.2573099415204678 at turn 5, accumulated sum is 0.5906432748538011
+success rate is 0.0935672514619883 at turn 6, accumulated sum is 0.6842105263157894
+success rate is 0.05263157894736842 at turn 7, accumulated sum is 0.7368421052631577
+success rate is 0.0935672514619883 at turn 8, accumulated sum is 0.830409356725146
+success rate is 0.017543859649122806 at turn 9, accumulated sum is 0.8479532163742689
+success rate is 0.023391812865497075 at turn 10, accumulated sum is 0.871345029239766
+Average turn is:  4.970760233918129

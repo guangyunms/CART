@@ -1,0 +1,275 @@
+{"user_id": 0, "busi_id": 1, "rec_list": ["1", "617"]}
+{"user_id": 4, "busi_id": 26, "rec_list": ["26", "1236", "189", "778", "1043"]}
+{"user_id": 5, "busi_id": 7, "rec_list": ["7"]}
+{"user_id": 5, "busi_id": 57, "rec_list": ["57", "163"]}
+{"user_id": 5, "busi_id": 7, "rec_list": ["7"]}
+{"user_id": 6, "busi_id": 62, "rec_list": ["62"]}
+{"user_id": 6, "busi_id": 62, "rec_list": ["62", "225"]}
+{"user_id": 6, "busi_id": 66, "rec_list": ["66"]}
+{"user_id": 6, "busi_id": 67, "rec_list": ["67"]}
+{"user_id": 6, "busi_id": 62, "rec_list": ["62"]}
+{"user_id": 6, "busi_id": 67, "rec_list": ["67"]}
+{"user_id": 7, "busi_id": 94, "rec_list": ["94", "320", "229", "225"]}
+{"user_id": 7, "busi_id": 97, "rec_list": ["97", "1044", "319", "504", "503", "609", "337", "235", "479"]}
+{"user_id": 7, "busi_id": 98, "rec_list": ["98"]}
+{"user_id": 7, "busi_id": 100, "rec_list": ["100"]}
+{"user_id": 8, "busi_id": 135, "rec_list": ["135", "162", "917"]}
+{"user_id": 9, "busi_id": 141, "rec_list": ["141", "289", "164"]}
+{"user_id": 10, "busi_id": 148, "rec_list": ["148", "225"]}
+{"user_id": 10, "busi_id": 52, "rec_list": ["52"]}
+{"user_id": 13, "busi_id": 57, "rec_list": ["57", "163"]}
+{"user_id": 15, "busi_id": 164, "rec_list": ["164", "141", "289"]}
+{"user_id": 16, "busi_id": 178, "rec_list": ["178", "165", "116", "28", "7"]}
+{"user_id": 16, "busi_id": 126, "rec_list": ["126"]}
+{"user_id": 16, "busi_id": 160, "rec_list": ["160", "1103", "576", "198", "669", "577", "900"]}
+{"user_id": 19, "busi_id": 233, "rec_list": ["233", "34", "165"]}
+{"user_id": 19, "busi_id": 236, "rec_list": ["236", "87", "33", "265", "123", "28", "54", "349", "29", "138"]}
+{"user_id": 19, "busi_id": 238, "rec_list": ["238"]}
+{"user_id": 19, "busi_id": 238, "rec_list": ["238"]}
+{"user_id": 19, "busi_id": 233, "rec_list": ["233", "34", "165"]}
+{"user_id": 21, "busi_id": 114, "rec_list": ["114", "139"]}
+{"user_id": 22, "busi_id": 162, "rec_list": ["162", "135", "917"]}
+{"user_id": 23, "busi_id": 258, "rec_list": ["258", "637", "589", "362", "240", "873", "628", "555"]}
+{"user_id": 23, "busi_id": 82, "rec_list": ["82"]}
+{"user_id": 25, "busi_id": 292, "rec_list": ["292", "428"]}
+{"user_id": 27, "busi_id": 228, "rec_list": ["228"]}
+{"user_id": 28, "busi_id": 301, "rec_list": ["301", "1031", "60"]}
+{"user_id": 31, "busi_id": 345, "rec_list": ["345", "169", "15", "168"]}
+{"user_id": 31, "busi_id": 345, "rec_list": ["345", "169", "15", "168"]}
+{"user_id": 32, "busi_id": 370, "rec_list": ["370", "215", "565", "371", "1000", "672", "1151", "1067", "999"]}
+{"user_id": 34, "busi_id": 388, "rec_list": ["388"]}
+{"user_id": 34, "busi_id": 391, "rec_list": ["391"]}
+{"user_id": 34, "busi_id": 393, "rec_list": ["393", "883", "231"]}
+{"user_id": 35, "busi_id": 228, "rec_list": ["228"]}
+{"user_id": 36, "busi_id": 123, "rec_list": ["123"]}
+{"user_id": 37, "busi_id": 427, "rec_list": ["427"]}
+{"user_id": 38, "busi_id": 78, "rec_list": ["78"]}
+{"user_id": 39, "busi_id": 454, "rec_list": ["454", "334", "339", "961", "1101"]}
+{"user_id": 39, "busi_id": 82, "rec_list": ["82", "165"]}
+{"user_id": 39, "busi_id": 454, "rec_list": ["454", "334", "339", "961", "1101"]}
+{"user_id": 39, "busi_id": 13, "rec_list": ["13"]}
+{"user_id": 40, "busi_id": 248, "rec_list": ["248", "794", "936", "529", "780"]}
+{"user_id": 42, "busi_id": 485, "rec_list": ["485", "169", "508"]}
+{"user_id": 43, "busi_id": 21, "rec_list": ["21"]}
+{"user_id": 45, "busi_id": 64, "rec_list": ["64", "116", "516"]}
+{"user_id": 46, "busi_id": 512, "rec_list": ["512", "659", "666", "726", "410"]}
+{"user_id": 48, "busi_id": 523, "rec_list": ["523"]}
+{"user_id": 48, "busi_id": 525, "rec_list": ["525", "291", "283"]}
+{"user_id": 52, "busi_id": 538, "rec_list": ["538"]}
+{"user_id": 53, "busi_id": 139, "rec_list": ["139", "114"]}
+{"user_id": 54, "busi_id": 62, "rec_list": ["62", "225"]}
+{"user_id": 54, "busi_id": 62, "rec_list": ["62", "225"]}
+{"user_id": 54, "busi_id": 131, "rec_list": ["131"]}
+{"user_id": 57, "busi_id": 562, "rec_list": ["562", "473", "468", "990"]}
+{"user_id": 57, "busi_id": 523, "rec_list": ["523"]}
+{"user_id": 58, "busi_id": 176, "rec_list": ["176", "100", "510", "921"]}
+{"user_id": 58, "busi_id": 28, "rec_list": ["28", "116", "7", "137", "225"]}
+{"user_id": 65, "busi_id": 592, "rec_list": ["592", "636", "103", "249", "115"]}
+{"user_id": 65, "busi_id": 593, "rec_list": ["593", "697", "693"]}
+{"user_id": 65, "busi_id": 1, "rec_list": ["1", "617"]}
+{"user_id": 67, "busi_id": 4, "rec_list": ["4"]}
+{"user_id": 67, "busi_id": 605, "rec_list": ["605", "985"]}
+{"user_id": 68, "busi_id": 614, "rec_list": ["614", "680"]}
+{"user_id": 69, "busi_id": 528, "rec_list": ["1149", "528"]}
+{"user_id": 69, "busi_id": 21, "rec_list": ["21", "125", "13"]}
+{"user_id": 71, "busi_id": 642, "rec_list": ["642", "392", "1260", "1035"]}
+{"user_id": 73, "busi_id": 38, "rec_list": ["38"]}
+{"user_id": 73, "busi_id": 38, "rec_list": ["38"]}
+{"user_id": 74, "busi_id": 126, "rec_list": ["126"]}
+{"user_id": 75, "busi_id": 672, "rec_list": ["672", "371", "999", "370", "1000", "1067", "215", "565", "1151"]}
+{"user_id": 76, "busi_id": 680, "rec_list": ["680", "614"]}
+{"user_id": 78, "busi_id": 216, "rec_list": ["216"]}
+{"user_id": 79, "busi_id": 488, "rec_list": ["488", "435"]}
+{"user_id": 81, "busi_id": 691, "rec_list": ["691", "987", "706"]}
+{"user_id": 83, "busi_id": 228, "rec_list": ["228"]}
+{"user_id": 83, "busi_id": 87, "rec_list": ["87", "125", "13", "354", "603", "28", "33", "54", "707", "123"]}
+{"user_id": 87, "busi_id": 405, "rec_list": ["405", "946", "24"]}
+{"user_id": 88, "busi_id": 704, "rec_list": ["704", "408", "173", "47", "768", "31", "71", "732", "705", "516"]}
+{"user_id": 88, "busi_id": 516, "rec_list": ["516"]}
+{"user_id": 89, "busi_id": 488, "rec_list": ["488", "435"]}
+{"user_id": 90, "busi_id": 423, "rec_list": ["423"]}
+{"user_id": 90, "busi_id": 179, "rec_list": ["179"]}
+{"user_id": 91, "busi_id": 137, "rec_list": ["137"]}
+{"user_id": 92, "busi_id": 720, "rec_list": ["720", "880", "288", "132", "851", "1091", "722", "1253", "211", "1093"]}
+{"user_id": 92, "busi_id": 212, "rec_list": ["212", "74", "174", "1235"]}
+{"user_id": 95, "busi_id": 488, "rec_list": ["488", "435"]}
+{"user_id": 95, "busi_id": 221, "rec_list": ["221"]}
+{"user_id": 99, "busi_id": 756, "rec_list": ["708", "756", "969", "336", "523", "584", "723", "135", "116", "291"]}
+{"user_id": 100, "busi_id": 78, "rec_list": ["78"]}
+{"user_id": 100, "busi_id": 405, "rec_list": ["405", "946", "22", "24"]}
+{"user_id": 102, "busi_id": 483, "rec_list": ["483"]}
+{"user_id": 103, "busi_id": 228, "rec_list": ["228"]}
+{"user_id": 104, "busi_id": 274, "rec_list": ["274", "140", "744", "986", "663", "500", "1026"]}
+{"user_id": 105, "busi_id": 125, "rec_list": ["125"]}
+{"user_id": 106, "busi_id": 137, "rec_list": ["137"]}
+{"user_id": 107, "busi_id": 86, "rec_list": ["86", "408", "231"]}
+{"user_id": 107, "busi_id": 608, "rec_list": ["608", "1243", "462", "841", "54", "129", "679", "21", "545", "2"]}
+{"user_id": 108, "busi_id": 801, "rec_list": ["801", "257", "679", "545", "805", "841", "54", "129", "21", "2"]}
+{"user_id": 108, "busi_id": 802, "rec_list": ["802"]}
+{"user_id": 111, "busi_id": 137, "rec_list": ["137"]}
+{"user_id": 114, "busi_id": 21, "rec_list": ["21"]}
+{"user_id": 115, "busi_id": 820, "rec_list": ["820", "116", "137"]}
+{"user_id": 116, "busi_id": 70, "rec_list": ["70", "1232", "1030", "28"]}
+{"user_id": 117, "busi_id": 329, "rec_list": ["329", "43", "516", "586", "745", "64", "4", "1046", "169", "977"]}
+{"user_id": 118, "busi_id": 538, "rec_list": ["538"]}
+{"user_id": 119, "busi_id": 136, "rec_list": ["136", "216", "645"]}
+{"user_id": 120, "busi_id": 125, "rec_list": ["125"]}
+{"user_id": 128, "busi_id": 4, "rec_list": ["4", "745", "64", "852", "116", "329", "229", "586", "516", "977"]}
+{"user_id": 130, "busi_id": 228, "rec_list": ["228"]}
+{"user_id": 131, "busi_id": 699, "rec_list": ["699", "178"]}
+{"user_id": 133, "busi_id": 18, "rec_list": ["18"]}
+{"user_id": 134, "busi_id": 876, "rec_list": ["876"]}
+{"user_id": 135, "busi_id": 878, "rec_list": ["878"]}
+{"user_id": 136, "busi_id": 609, "rec_list": ["609", "97", "1044", "235", "319", "503", "504", "479", "337"]}
+{"user_id": 140, "busi_id": 608, "rec_list": ["608", "1243", "438", "2", "129", "462", "841", "545", "747", "225"]}
+{"user_id": 141, "busi_id": 253, "rec_list": ["253"]}
+{"user_id": 148, "busi_id": 182, "rec_list": ["182", "541"]}
+{"user_id": 150, "busi_id": 906, "rec_list": ["906", "304", "1023", "59"]}
+{"user_id": 151, "busi_id": 73, "rec_list": ["73", "472"]}
+{"user_id": 153, "busi_id": 833, "rec_list": ["833"]}
+{"user_id": 156, "busi_id": 23, "rec_list": ["23", "149", "238", "106"]}
+{"user_id": 156, "busi_id": 216, "rec_list": ["216"]}
+{"user_id": 158, "busi_id": 50, "rec_list": ["50", "284"]}
+{"user_id": 158, "busi_id": 64, "rec_list": ["64", "516", "116"]}
+{"user_id": 158, "busi_id": 516, "rec_list": ["516"]}
+{"user_id": 158, "busi_id": 704, "rec_list": ["704", "768", "13", "705", "516", "763", "408", "39", "291", "173"]}
+{"user_id": 162, "busi_id": 385, "rec_list": ["385"]}
+{"user_id": 165, "busi_id": 942, "rec_list": ["942"]}
+{"user_id": 165, "busi_id": 335, "rec_list": ["335", "1056", "228", "338", "88"]}
+{"user_id": 165, "busi_id": 98, "rec_list": ["98"]}
+{"user_id": 166, "busi_id": 902, "rec_list": ["902"]}
+{"user_id": 168, "busi_id": 327, "rec_list": ["327", "825", "209"]}
+{"user_id": 168, "busi_id": 948, "rec_list": ["948", "137", "106", "116"]}
+{"user_id": 170, "busi_id": 608, "rec_list": ["679", "257", "545", "608", "805", "801", "438", "462", "747", "1243"]}
+{"user_id": 171, "busi_id": 13, "rec_list": ["13"]}
+{"user_id": 171, "busi_id": 270, "rec_list": ["270", "374", "1058", "229", "375", "228", "21", "581", "951", "791"]}
+{"user_id": 172, "busi_id": 431, "rec_list": ["431", "242", "157"]}
+{"user_id": 173, "busi_id": 969, "rec_list": ["969", "336", "135", "584", "291", "917", "914", "38", "723", "523"]}
+{"user_id": 175, "busi_id": 228, "rec_list": ["228"]}
+{"user_id": 178, "busi_id": 348, "rec_list": ["348"]}
+{"user_id": 179, "busi_id": 987, "rec_list": ["987", "691", "706"]}
+{"user_id": 179, "busi_id": 988, "rec_list": ["988", "1010", "378", "442", "359", "317", "443", "527", "793"]}
+{"user_id": 180, "busi_id": 52, "rec_list": ["52"]}
+{"user_id": 181, "busi_id": 1000, "rec_list": ["1000", "370", "1151", "1067", "672", "999", "371", "215", "565"]}
+{"user_id": 182, "busi_id": 1002, "rec_list": ["1002"]}
+{"user_id": 184, "busi_id": 555, "rec_list": ["555", "637", "628", "873", "258", "589", "362", "240"]}
+{"user_id": 186, "busi_id": 374, "rec_list": ["374", "10", "62", "332", "1058", "229", "791", "375", "581", "270"]}
+{"user_id": 188, "busi_id": 262, "rec_list": ["262"]}
+{"user_id": 189, "busi_id": 222, "rec_list": ["222", "833"]}
+{"user_id": 190, "busi_id": 423, "rec_list": ["423"]}
+{"user_id": 191, "busi_id": 9, "rec_list": ["9", "1094", "498", "1098", "237", "318"]}
+{"user_id": 191, "busi_id": 461, "rec_list": ["461"]}
+{"user_id": 192, "busi_id": 221, "rec_list": ["221"]}
+{"user_id": 194, "busi_id": 1, "rec_list": ["1", "617"]}
+{"user_id": 195, "busi_id": 377, "rec_list": ["377", "165"]}
+{"user_id": 196, "busi_id": 1041, "rec_list": ["1041", "716"]}
+{"user_id": 196, "busi_id": 125, "rec_list": ["125"]}
+{"user_id": 197, "busi_id": 175, "rec_list": ["175"]}
+{"user_id": 197, "busi_id": 18, "rec_list": ["18"]}
+{"user_id": 197, "busi_id": 1049, "rec_list": ["1049"]}
+{"user_id": 199, "busi_id": 125, "rec_list": ["125"]}
+{"user_id": 200, "busi_id": 178, "rec_list": ["178", "28", "165", "116", "7"]}
+{"user_id": 201, "busi_id": 1055, "rec_list": ["1055"]}
+{"user_id": 201, "busi_id": 1056, "rec_list": ["1056", "335", "88", "338", "228"]}
+{"user_id": 206, "busi_id": 116, "rec_list": ["116"]}
+{"user_id": 207, "busi_id": 840, "rec_list": ["840"]}
+{"user_id": 208, "busi_id": 34, "rec_list": ["34"]}
+{"user_id": 212, "busi_id": 792, "rec_list": ["792", "76"]}
+{"user_id": 213, "busi_id": 216, "rec_list": ["216"]}
+{"user_id": 215, "busi_id": 116, "rec_list": ["116"]}
+{"user_id": 218, "busi_id": 114, "rec_list": ["114", "139"]}
+{"user_id": 219, "busi_id": 281, "rec_list": ["281", "260", "106", "1222"]}
+{"user_id": 221, "busi_id": 34, "rec_list": ["34"]}
+{"user_id": 222, "busi_id": 488, "rec_list": ["488", "435"]}
+{"user_id": 224, "busi_id": 4, "rec_list": ["4", "783", "852", "1120", "43", "977", "1046", "516", "197", "329"]}
+{"user_id": 228, "busi_id": 546, "rec_list": ["546", "1234", "201"]}
+{"user_id": 228, "busi_id": 253, "rec_list": ["253", "98"]}
+{"user_id": 229, "busi_id": 1102, "rec_list": ["1102", "1201", "850", "846", "1185", "413", "1134"]}
+{"user_id": 230, "busi_id": 374, "rec_list": ["374", "270", "1058", "10", "375", "332", "4", "581", "228", "791"]}
+{"user_id": 231, "busi_id": 1105, "rec_list": ["1105"]}
+{"user_id": 232, "busi_id": 1106, "rec_list": ["1106", "399", "952", "1107", "907", "108", "1270", "905"]}
+{"user_id": 235, "busi_id": 137, "rec_list": ["137"]}
+{"user_id": 237, "busi_id": 137, "rec_list": ["137"]}
+{"user_id": 238, "busi_id": 385, "rec_list": ["385"]}
+{"user_id": 243, "busi_id": 606, "rec_list": ["606", "927"]}
+{"user_id": 245, "busi_id": 268, "rec_list": ["268"]}
+{"user_id": 245, "busi_id": 283, "rec_list": ["283"]}
+{"user_id": 245, "busi_id": 283, "rec_list": ["283", "291"]}
+{"user_id": 247, "busi_id": 703, "rec_list": ["703"]}
+{"user_id": 248, "busi_id": 228, "rec_list": ["228"]}
+{"user_id": 250, "busi_id": 679, "rec_list": ["679"]}
+{"user_id": 251, "busi_id": 4, "rec_list": ["4", "64", "197", "329", "852", "516", "483", "745", "586", "1120"]}
+{"user_id": 252, "busi_id": 1122, "rec_list": ["1122"]}
+{"user_id": 252, "busi_id": 1123, "rec_list": ["1123", "269"]}
+{"user_id": 253, "busi_id": 228, "rec_list": ["228"]}
+{"user_id": 260, "busi_id": 159, "rec_list": ["159"]}
+{"user_id": 262, "busi_id": 1135, "rec_list": ["1135", "238"]}
+{"user_id": 263, "busi_id": 629, "rec_list": ["629", "813"]}
+{"user_id": 264, "busi_id": 116, "rec_list": ["116"]}
+{"user_id": 265, "busi_id": 78, "rec_list": ["78"]}
+{"user_id": 270, "busi_id": 65, "rec_list": ["65", "1034", "321"]}
+{"user_id": 271, "busi_id": 1071, "rec_list": ["1071", "1233"]}
+{"user_id": 274, "busi_id": 154, "rec_list": ["154", "583", "65", "169", "604", "516", "584", "580", "1034", "148"]}
+{"user_id": 274, "busi_id": 22, "rec_list": ["22"]}
+{"user_id": 275, "busi_id": 1157, "rec_list": ["1157"]}
+{"user_id": 279, "busi_id": 1147, "rec_list": ["1147"]}
+{"user_id": 280, "busi_id": 1161, "rec_list": ["1161"]}
+{"user_id": 281, "busi_id": 18, "rec_list": ["18"]}
+{"user_id": 281, "busi_id": 1162, "rec_list": ["1162", "311", "418"]}
+{"user_id": 284, "busi_id": 131, "rec_list": ["131"]}
+{"user_id": 286, "busi_id": 901, "rec_list": ["901", "303", "314"]}
+{"user_id": 292, "busi_id": 116, "rec_list": ["116", "169"]}
+{"user_id": 294, "busi_id": 442, "rec_list": ["442", "359", "527", "1010", "988", "378", "443", "793", "317"]}
+{"user_id": 296, "busi_id": 114, "rec_list": ["114", "139"]}
+{"user_id": 297, "busi_id": 584, "rec_list": ["584", "231", "225", "7"]}
+{"user_id": 299, "busi_id": 21, "rec_list": ["21"]}
+{"user_id": 300, "busi_id": 39, "rec_list": ["39"]}
+{"user_id": 303, "busi_id": 21, "rec_list": ["21"]}
+{"user_id": 304, "busi_id": 229, "rec_list": ["229"]}
+{"user_id": 307, "busi_id": 329, "rec_list": ["329", "852", "783", "977"]}
+{"user_id": 308, "busi_id": 1187, "rec_list": ["1187", "718", "885"]}
+{"user_id": 313, "busi_id": 385, "rec_list": ["385"]}
+{"user_id": 315, "busi_id": 137, "rec_list": ["137"]}
+{"user_id": 316, "busi_id": 1011, "rec_list": ["1011", "992", "228", "338", "634", "814", "989", "1229", "225", "4"]}
+{"user_id": 319, "busi_id": 985, "rec_list": ["985", "605"]}
+{"user_id": 323, "busi_id": 1209, "rec_list": ["1209", "570", "447", "477"]}
+{"user_id": 323, "busi_id": 295, "rec_list": ["295"]}
+{"user_id": 326, "busi_id": 1213, "rec_list": ["1213"]}
+{"user_id": 327, "busi_id": 116, "rec_list": ["116", "169"]}
+{"user_id": 328, "busi_id": 137, "rec_list": ["137"]}
+{"user_id": 329, "busi_id": 565, "rec_list": ["565", "672", "215", "1151", "1000", "371", "1067", "999", "370"]}
+{"user_id": 334, "busi_id": 1221, "rec_list": ["1221", "860", "148", "225", "773"]}
+{"user_id": 335, "busi_id": 1223, "rec_list": ["1223", "1220", "98", "67"]}
+{"user_id": 336, "busi_id": 1, "rec_list": ["1", "617"]}
+{"user_id": 337, "busi_id": 21, "rec_list": ["21"]}
+{"user_id": 338, "busi_id": 247, "rec_list": ["247"]}
+{"user_id": 338, "busi_id": 466, "rec_list": ["466", "330", "1146", "781", "471", "91", "455", "1108", "736", "1033"]}
+{"user_id": 338, "busi_id": 247, "rec_list": ["247"]}
+{"user_id": 340, "busi_id": 1230, "rec_list": ["1230"]}
+{"user_id": 341, "busi_id": 283, "rec_list": ["283"]}
+{"user_id": 342, "busi_id": 38, "rec_list": ["38"]}
+{"user_id": 343, "busi_id": 645, "rec_list": ["645", "216", "136"]}
+{"user_id": 346, "busi_id": 1036, "rec_list": ["1036", "920", "121", "214"]}
+{"user_id": 347, "busi_id": 131, "rec_list": ["131"]}
+{"user_id": 351, "busi_id": 699, "rec_list": ["699", "178"]}
+{"user_id": 352, "busi_id": 136, "rec_list": ["136", "216", "645"]}
+{"user_id": 355, "busi_id": 21, "rec_list": ["21"]}
+{"user_id": 357, "busi_id": 432, "rec_list": ["432", "1029", "719"]}
+{"user_id": 360, "busi_id": 257, "rec_list": ["257", "805", "2", "545", "679", "1243", "129", "462", "608", "841"]}
+{"user_id": 364, "busi_id": 67, "rec_list": ["67"]}
+{"user_id": 365, "busi_id": 128, "rec_list": ["128", "238"]}
+{"user_id": 369, "busi_id": 1248, "rec_list": ["1248"]}
+{"user_id": 369, "busi_id": 172, "rec_list": ["172", "864", "430", "835", "35"]}
+{"user_id": 371, "busi_id": 221, "rec_list": ["221"]}
+{"user_id": 372, "busi_id": 221, "rec_list": ["221"]}
+{"user_id": 374, "busi_id": 34, "rec_list": ["34"]}
+{"user_id": 375, "busi_id": 125, "rec_list": ["125"]}
+{"user_id": 376, "busi_id": 1254, "rec_list": ["1254"]}
+{"user_id": 380, "busi_id": 583, "rec_list": ["583"]}
+{"user_id": 386, "busi_id": 21, "rec_list": ["21"]}
+{"user_id": 390, "busi_id": 1260, "rec_list": ["1260", "1035", "392", "642"]}
+{"user_id": 391, "busi_id": 167, "rec_list": ["167", "954"]}
+{"user_id": 397, "busi_id": 281, "rec_list": ["281", "260", "106", "1222"]}
+{"user_id": 399, "busi_id": 139, "rec_list": ["139", "114"]}
+{"user_id": 405, "busi_id": 65, "rec_list": ["65", "321", "1034"]}
+{"user_id": 409, "busi_id": 67, "rec_list": ["67"]}
